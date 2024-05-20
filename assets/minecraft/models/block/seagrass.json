@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/bushy_alt",
+  "textures": {
+    "cross": "minecraft:block/seagrass"
+  }
+}

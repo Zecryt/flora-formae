@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/stem_growth7",
+  "textures": {
+    "stem": "minecraft:block/pumpkin_stem",
+    "leaves": "minecraft:block/pumpkin_leaves_stage_7"
+  }
+}

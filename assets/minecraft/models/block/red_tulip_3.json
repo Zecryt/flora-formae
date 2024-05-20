@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/tulip_3",
+    "textures": {
+      "cross": "minecraft:block/red_tulip"
+    }
+  }
