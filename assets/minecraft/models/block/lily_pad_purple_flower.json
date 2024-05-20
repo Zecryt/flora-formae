@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/lily_pad_with_flower",
+  "textures": {
+    "flower": "minecraft:block/lily_pad_flower_3"
+  }
+}

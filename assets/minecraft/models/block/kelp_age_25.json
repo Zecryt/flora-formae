@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/bushy_symmetric",
+  "textures": {
+    "cross": "minecraft:block/kelp_age_25"
+  }
+}
