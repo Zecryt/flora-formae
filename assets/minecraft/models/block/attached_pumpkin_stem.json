@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/stem_attached",
+  "textures": {
+    "stem_large": "minecraft:block/pumpkin_stem_large",
+    "stem_cross": "minecraft:block/pumpkin_stem_cross",
+    "leaves": "minecraft:block/pumpkin_leaves",
+    "leaves_small": "minecraft:block/pumpkin_leaves_small"
+  }
+}

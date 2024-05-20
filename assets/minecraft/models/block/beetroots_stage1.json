@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/bushy_crop",
+  "textures": {
+    "crop": "minecraft:block/beetroots_stage1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/stem_attached",
+  "textures": {
+    "stem_large": "minecraft:block/melon_stem_large",
+    "stem_cross": "minecraft:block/melon_stem_cross",
+    "leaves": "minecraft:block/melon_leaves",
+    "leaves_small": "minecraft:block/melon_leaves_small"
+  }
+}
