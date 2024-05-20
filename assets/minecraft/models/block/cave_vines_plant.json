@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/bushy_inverted",
+  "textures": {
+    "cross": "minecraft:block/cave_vines_plant"
+  }
+}

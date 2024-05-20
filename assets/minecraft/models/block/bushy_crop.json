@@ -1,0 +1,103 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#crop"
+	},
+	"elements": [
+		{
+			"from": [4, -1, 0],
+			"to": [4, 15, 16],
+			"shade": false,
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#crop"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [12, -1, 0],
+			"to": [12, 15, 16],
+			"shade": false,
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#crop"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [0, -1, 4],
+			"to": [16, 15, 4],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#crop"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [0, -1, 12],
+			"to": [16, 15, 12],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#crop"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [11.69552, -2.53073, 4],
+			"to": [11.69552, 13.46927, 12],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 0, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [4, 0, 12, 16], "texture": "#crop"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [4.30448, -2.53073, 4],
+			"to": [4.30448, 13.46927, 12],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 0, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#crop"},
+				"west": {"uv": [12, 0, 4, 16], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [4, -2.53073, 11.69552],
+			"to": [12, 13.46927, 11.69552],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 0, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#crop"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [4, -2.53073, 4.30448],
+			"to": [12, 13.46927, 4.30448],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 0, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [12, 0, 4, 16], "texture": "#crop"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#crop"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		1,
+		2,
+		3,
+		{
+			"name": "X",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [4, 5]
+		},
+		{
+			"name": "Z",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [6, 7]
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/bushy_crop_roots",
+  "textures": {
+    "crop": "minecraft:block/carrots_stage3_parts",
+    "particle": "minecraft:block/carrots_stage3"
+  }
+}

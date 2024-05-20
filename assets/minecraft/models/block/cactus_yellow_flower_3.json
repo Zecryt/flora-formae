@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cactus_with_flower_side_2",
+    "textures": {
+      "flower": "minecraft:block/cactus_flower_4"
+    }
+  }
