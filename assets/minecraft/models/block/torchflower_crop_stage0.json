@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/bushy_crop_alt",
+  "textures": {
+    "cross": "minecraft:block/torchflower_crop_stage0"
+  }
+}
