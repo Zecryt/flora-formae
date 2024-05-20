@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/bushy",
+    "textures": {
+      "cross": "minecraft:block/sweet_berry_bush_stage0"
+    }
+  }
