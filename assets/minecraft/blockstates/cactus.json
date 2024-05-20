@@ -1,0 +1,255 @@
+{
+  "variants": {
+    "": [
+        {
+        "model": "minecraft:block/cactus",
+        "weight": 192
+      },
+      {
+        "model": "minecraft:block/cactus_pink_flower",
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/cactus_pink_flower",
+        "weight": 2,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_pink_flower",
+        "weight": 2,
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_pink_flower",
+        "weight": 2,
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_pink_flower_2"
+      },
+      {
+        "model": "minecraft:block/cactus_pink_flower_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_pink_flower_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_pink_flower_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_pink_flower_3"
+      },
+      {
+        "model": "minecraft:block/cactus_pink_flower_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_pink_flower_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_pink_flower_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_red_flower",
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/cactus_red_flower",
+        "weight": 2,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_red_flower",
+        "weight": 2,
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_red_flower",
+        "weight": 2,
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_red_flower_2"
+      },
+      {
+        "model": "minecraft:block/cactus_red_flower_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_red_flower_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_red_flower_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_red_flower_3"
+      },
+      {
+        "model": "minecraft:block/cactus_red_flower_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_red_flower_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_red_flower_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_scarlet_flower",
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/cactus_scarlet_flower",
+        "weight": 2,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_scarlet_flower",
+        "weight": 2,
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_scarlet_flower",
+        "weight": 2,
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_scarlet_flower_2"
+      },
+      {
+        "model": "minecraft:block/cactus_scarlet_flower_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_scarlet_flower_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_scarlet_flower_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_scarlet_flower_3"
+      },
+      {
+        "model": "minecraft:block/cactus_scarlet_flower_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_scarlet_flower_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_scarlet_flower_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_yellow_flower",
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/cactus_yellow_flower",
+        "weight": 2,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_yellow_flower",
+        "weight": 2,
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_yellow_flower",
+        "weight": 2,
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_yellow_flower_2"
+      },
+      {
+        "model": "minecraft:block/cactus_yellow_flower_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_yellow_flower_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_yellow_flower_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_yellow_flower_3"
+      },
+      {
+        "model": "minecraft:block/cactus_yellow_flower_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_yellow_flower_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_yellow_flower_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_orange_flower",
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/cactus_orange_flower",
+        "weight": 2,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_orange_flower",
+        "weight": 2,
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_orange_flower",
+        "weight": 2,
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_orange_flower_2"
+      },
+      {
+        "model": "minecraft:block/cactus_orange_flower_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_orange_flower_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_orange_flower_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/cactus_orange_flower_3"
+      },
+      {
+        "model": "minecraft:block/cactus_orange_flower_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/cactus_orange_flower_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/cactus_orange_flower_3",
+        "y": 270
+      }
+    ]
+  }
+}

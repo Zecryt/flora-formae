@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "": [
+        {
+        "model": "minecraft:block/fern",
+        "weight": 16
+      },
+      {
+        "model": "minecraft:block/fern_yellow"
+      },
+      {
+        "model": "minecraft:block/fern_blue"
+      },
+      {
+        "model": "minecraft:block/fern_2",
+        "weight": 8
+      },
+      {
+        "model": "minecraft:block/fern_2_yellow"
+      },
+      {
+        "model": "minecraft:block/fern_2_blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "": [
+        {
+        "model": "minecraft:block/short_grass",
+        "weight": 16
+      },
+      {
+        "model": "minecraft:block/short_grass_yellow"
+      },
+      {
+        "model": "minecraft:block/short_grass_blue"
+      },
+      {
+        "model": "minecraft:block/short_grass_2",
+        "weight": 8
+      },
+      {
+        "model": "minecraft:block/short_grass_2_yellow"
+      },
+      {
+        "model": "minecraft:block/short_grass_2_blue"
+      },
+      {
+        "model": "minecraft:block/short_grass_3",
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/short_grass_3_yellow"
+      },
+      {
+        "model": "minecraft:block/short_grass_3_blue"
+      },
+      {
+        "model": "minecraft:block/short_grass_4",
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/short_grass_4_yellow"
+      },
+      {
+        "model": "minecraft:block/short_grass_4_blue"
+      }
+    ]
+  }
+}

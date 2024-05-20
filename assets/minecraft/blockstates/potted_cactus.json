@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "": [
+        {
+        "model": "minecraft:block/potted_cactus",
+        "weight": 64
+      },
+      {
+        "model": "minecraft:block/potted_cactus_2"
+      },
+      {
+        "model": "minecraft:block/potted_cactus_3"
+      },
+      {
+        "model": "minecraft:block/potted_cactus_4"
+      },
+      {
+        "model": "minecraft:block/potted_cactus_5"
+      },
+      {
+        "model": "minecraft:block/potted_cactus_6"
+      }
+    ]
+  }
+}

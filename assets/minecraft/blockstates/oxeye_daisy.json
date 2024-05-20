@@ -1,0 +1,59 @@
+{
+  "variants": {
+    "": [
+        {
+        "model": "minecraft:block/oxeye_daisy",
+        "weight": 8
+      },
+      {
+        "model": "minecraft:block/oxeye_daisy_2",
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/oxeye_daisy_2",
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/oxeye_daisy_2",
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/oxeye_daisy_2",
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/oxeye_daisy_3"
+      },
+      {
+        "model": "minecraft:block/oxeye_daisy_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/oxeye_daisy_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/oxeye_daisy_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/oxeye_daisy_4"
+      },
+      {
+        "model": "minecraft:block/oxeye_daisy_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/oxeye_daisy_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/oxeye_daisy_4",
+        "y": 270
+      }
+    ]
+  }
+}

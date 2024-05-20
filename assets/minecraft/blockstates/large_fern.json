@@ -1,0 +1,48 @@
+{
+  "variants": {
+    "half=lower": [
+        {
+        "model": "minecraft:block/large_fern_bottom",
+        "weight": 16
+      },
+      {
+        "model": "minecraft:block/large_fern_bottom_yellow"
+      },
+      {
+        "model": "minecraft:block/large_fern_bottom_blue"
+      },
+      {
+        "model": "minecraft:block/large_fern_bottom_2",
+        "weight": 8
+      },
+      {
+        "model": "minecraft:block/large_fern_bottom_2_yellow"
+      },
+      {
+        "model": "minecraft:block/large_fern_bottom_2_blue"
+      }
+    ],
+    "half=upper": [
+        {
+        "model": "minecraft:block/large_fern_top",
+        "weight": 16
+      },
+      {
+        "model": "minecraft:block/large_fern_top_yellow"
+      },
+      {
+        "model": "minecraft:block/large_fern_top_blue"
+      },
+      {
+        "model": "minecraft:block/large_fern_top_2",
+        "weight": 8
+      },
+      {
+        "model": "minecraft:block/large_fern_top_2_yellow"
+      },
+      {
+        "model": "minecraft:block/large_fern_top_2_blue"
+      }
+    ]
+  }
+}

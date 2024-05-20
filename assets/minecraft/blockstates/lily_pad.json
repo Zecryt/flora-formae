@@ -1,0 +1,134 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/lily_pad",
+        "weight": 8
+      },
+      {
+        "model": "minecraft:block/lily_pad",
+        "weight": 8,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/lily_pad",
+        "weight": 8,
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/lily_pad",
+        "weight": 8,
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/lily_pad_2",
+        "weight": 8
+      },
+      {
+        "model": "minecraft:block/lily_pad_2",
+        "weight": 8,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/lily_pad_2",
+        "weight": 8,
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/lily_pad_2",
+        "weight": 8,
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/lily_pad_white_flower"
+      },
+      {
+        "model": "minecraft:block/lily_pad_white_flower",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/lily_pad_white_flower",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/lily_pad_white_flower",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/lily_pad_white_flower_2"
+      },
+      {
+        "model": "minecraft:block/lily_pad_white_flower_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/lily_pad_white_flower_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/lily_pad_white_flower_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/lily_pad_pink_flower"
+      },
+      {
+        "model": "minecraft:block/lily_pad_pink_flower",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/lily_pad_pink_flower",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/lily_pad_pink_flower",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/lily_pad_pink_flower_2"
+      },
+      {
+        "model": "minecraft:block/lily_pad_pink_flower_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/lily_pad_pink_flower_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/lily_pad_pink_flower_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/lily_pad_purple_flower"
+      },
+      {
+        "model": "minecraft:block/lily_pad_purple_flower",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/lily_pad_purple_flower",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/lily_pad_purple_flower",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/lily_pad_purple_flower_2"
+      },
+      {
+        "model": "minecraft:block/lily_pad_purple_flower_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/lily_pad_purple_flower_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/lily_pad_purple_flower_2",
+        "y": 270
+      }
+    ]
+  }
+}

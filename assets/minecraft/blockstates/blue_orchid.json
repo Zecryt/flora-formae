@@ -1,0 +1,74 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/blue_orchid",
+        "weight": 16
+      },
+      {
+        "model": "minecraft:block/blue_orchid",
+        "y": 90,
+        "weight": 16
+      },
+      {
+        "model": "minecraft:block/blue_orchid",
+        "y": 180,
+        "weight": 16
+      },
+      {
+        "model": "minecraft:block/blue_orchid",
+        "y": 270,
+        "weight": 16
+      },
+      {
+        "model": "minecraft:block/blue_orchid_2",
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/blue_orchid_2",
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/blue_orchid_2",
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/blue_orchid_2",
+        "y": 270,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/blue_orchid_3"
+      },
+      {
+        "model": "minecraft:block/blue_orchid_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/blue_orchid_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/blue_orchid_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/blue_orchid_4"
+      },
+      {
+        "model": "minecraft:block/blue_orchid_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/blue_orchid_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/blue_orchid_4",
+        "y": 270
+      }
+    ]
+  }
+}
