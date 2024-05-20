@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/potted_bamboo_base",
+    "textures": {
+      "leaf": "minecraft:block/bamboo_large_leaves"
+    }
+  }
