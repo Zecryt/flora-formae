@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/bushy",
-  "textures": {
-    "cross": "minecraft:block/acacia_sapling"
-  }
-}
