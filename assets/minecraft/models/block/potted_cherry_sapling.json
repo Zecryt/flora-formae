@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/bushy_potted",
+  "textures": {
+    "cross": "minecraft:block/cherry_sapling"
+  }
+}
