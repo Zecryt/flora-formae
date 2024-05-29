@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/bushy_potted_symmetric",
+  "parent": "minecraft:block/bushy_potted_bipyramid",
   "textures": {
     "cross": "minecraft:block/jungle_sapling"
   }

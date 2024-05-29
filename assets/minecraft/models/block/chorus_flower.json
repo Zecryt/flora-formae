@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/bushy_chorus_flower",
+  "textures": {
+    "texture": "minecraft:block/chorus_flower",
+    "petals": "minecraft:block/chorus_flower_petals"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/bushy_bipyramid",
   "textures": {
-    "cross": "minecraft:block/kelp_age_25"
+    "cross": "minecraft:block/bamboo_stage0"
   }
 }
