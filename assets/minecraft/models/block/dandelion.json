@@ -31,11 +31,8 @@
 			"to": [7, 9, 11],
 			"rotation": {"angle": 45, "axis": "z", "origin": [7, 7, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 0, 4], "texture": "#missing"},
 				"east": {"uv": [5, 7, 11, 11], "texture": "#cross"},
-				"south": {"uv": [0, 0, 0, 4], "texture": "#missing"},
 				"west": {"uv": [5, 7, 11, 11], "texture": "#cross"},
-				"up": {"uv": [0, 0, 0, 6], "texture": "#missing"},
 				"down": {"uv": [0, 0, 0, 6], "texture": "#missing"}
 			}
 		},
@@ -44,11 +41,8 @@
 			"to": [9, 9, 11],
 			"rotation": {"angle": -45, "axis": "z", "origin": [9, 7, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 0, 4], "texture": "#missing"},
 				"east": {"uv": [11, 7, 5, 11], "texture": "#cross"},
-				"south": {"uv": [0, 0, 0, 4], "texture": "#missing"},
 				"west": {"uv": [11, 7, 5, 11], "texture": "#cross"},
-				"up": {"uv": [0, 0, 0, 6], "texture": "#missing"},
 				"down": {"uv": [0, 0, 0, 6], "texture": "#missing"}
 			}
 		},
@@ -58,12 +52,7 @@
 			"rotation": {"angle": -45, "axis": "x", "origin": [8, 7, 7]},
 			"faces": {
 				"north": {"uv": [5, 7, 11, 11], "texture": "#cross"},
-				"east": {"uv": [0, 0, 0, 4], "texture": "#missing"},
-				"south": {"uv": [5, 7, 11, 11], "texture": "#cross"},
-				"west": {"uv": [0, 0, 0, 4], "texture": "#missing"},
-				"up": {"uv": [0, 0, 0, 6], "rotation": 90, "texture": "#missing"},
-				"down": {"uv": [0, 0, 0, 6], "rotation": 270, "texture": "#missing"}
-			}
+				"south": {"uv": [5, 7, 11, 11], "texture": "#cross"}			}
 		},
 		{
 			"from": [5, 5, 9],
@@ -71,12 +60,7 @@
 			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7, 9]},
 			"faces": {
 				"north": {"uv": [11, 7, 5, 11], "texture": "#cross"},
-				"east": {"uv": [0, 0, 0, 4], "texture": "#missing"},
-				"south": {"uv": [11, 7, 5, 11], "texture": "#cross"},
-				"west": {"uv": [0, 0, 0, 4], "texture": "#missing"},
-				"up": {"uv": [0, 0, 0, 6], "rotation": 90, "texture": "#missing"},
-				"down": {"uv": [0, 0, 0, 6], "rotation": 270, "texture": "#missing"}
-			}
+				"south": {"uv": [11, 7, 5, 11], "texture": "#cross"}			}
 		}
 	],
 	"groups": [

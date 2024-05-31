@@ -39,10 +39,6 @@
 			"to": [16, 16.25, 16],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 16.25, 0]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 0], "texture": "#missing"},
-				"east": {"uv": [0, 0, 16, 0], "texture": "#missing"},
-				"south": {"uv": [0, 0, 16, 0], "texture": "#missing"},
-				"west": {"uv": [0, 0, 16, 0], "texture": "#missing"},
 				"up": {"uv": [1, 1, 15, 15], "texture": "#4"}
 			}
 		},
