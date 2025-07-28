@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:block/bushy_inverted",
   "textures": {
-    "cross": "minecraft:block/weeping_vines"
+    "cross": "minecraft:block/weeping_vines",
+    "bushy": "minecraft:block/weeping_vines"
   }
 }
