@@ -1,189 +1,209 @@
 {
-	"credit": "Created by Zecryt using Blockbench",
-	"ambientocclusion": false,
-	"textures": {
-		"particle": "block/allium",
-		"cross": "block/allium",
-		"head": "block/allium_head"
-	},
-	"elements": [
-		{
-			"from": [-1.7, 0, 5],
-			"to": [11.7, 15, 5],
-			"shade": false,
-			"rotation": {"angle": 45, "axis": "y", "origin": [5, 8, 5], "rescale": true},
-			"faces": {
-				"north": {"uv": [0, 1, 15, 16], "texture": "#cross"},
-				"south": {"uv": [0, 1, 15, 16], "texture": "#cross"}
-			}
-		},
-		{
-			"from": [5, 0, -1.7],
-			"to": [5, 15, 11.7],
-			"shade": false,
-			"rotation": {"angle": 45, "axis": "y", "origin": [5, 8, 5], "rescale": true},
-			"faces": {
-				"east": {"uv": [0, 1, 15, 16], "texture": "#cross"},
-				"west": {"uv": [0, 1, 15, 16], "texture": "#cross"}
-			}
-		},
-		{
-			"from": [1.5, 8, 5],
-			"to": [8.5, 14, 5],
-			"shade": false,
-			"rotation": {"angle": 45, "axis": "x", "origin": [5, 11, 5]},
-			"faces": {
-				"north": {"uv": [0, 16, 16, 0], "texture": "#head"},
-				"south": {"uv": [0, 16, 16, 0], "texture": "#head"}
-			}
-		},
-		{
-			"from": [1.5, 8, 5],
-			"to": [8.5, 14, 5],
-			"shade": false,
-			"rotation": {"angle": -45, "axis": "x", "origin": [5, 11, 5]},
-			"faces": {
-				"north": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#head"},
-				"south": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#head"}
-			}
-		},
-		{
-			"from": [5, 8, 1.5],
-			"to": [5, 14, 8.5],
-			"shade": false,
-			"rotation": {"angle": 45, "axis": "z", "origin": [5, 11, 5]},
-			"faces": {
-				"east": {"uv": [0, 16, 16, 0], "texture": "#head"},
-				"west": {"uv": [0, 16, 16, 0], "texture": "#head"}
-			}
-		},
-		{
-			"from": [5, 8, 1.5],
-			"to": [5, 14, 8.5],
-			"shade": false,
-			"rotation": {"angle": -45, "axis": "z", "origin": [5, 11, 5]},
-			"faces": {
-				"east": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#head"},
-				"west": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#head"}
-			}
-		},
-		{
-			"from": [4.3, -2, 11],
-			"to": [17.7, 13, 11],
-			"shade": false,
-			"rotation": {"angle": 45, "axis": "y", "origin": [11, 6, 11], "rescale": true},
-			"faces": {
-				"north": {"uv": [0, 1, 15, 16], "texture": "#cross"},
-				"south": {"uv": [0, 1, 15, 16], "texture": "#cross"}
-			}
-		},
-		{
-			"from": [11, -2, 4.3],
-			"to": [11, 13, 17.7],
-			"shade": false,
-			"rotation": {"angle": 45, "axis": "y", "origin": [11, 6, 11], "rescale": true},
-			"faces": {
-				"east": {"uv": [0, 1, 15, 16], "texture": "#cross"},
-				"west": {"uv": [0, 1, 15, 16], "texture": "#cross"}
-			}
-		},
-		{
-			"from": [7.5, 6, 11],
-			"to": [14.5, 12, 11],
-			"shade": false,
-			"rotation": {"angle": 45, "axis": "x", "origin": [11, 9, 11]},
-			"faces": {
-				"north": {"uv": [0, 16, 16, 0], "texture": "#head"},
-				"south": {"uv": [0, 16, 16, 0], "texture": "#head"}
-			}
-		},
-		{
-			"from": [7.5, 6, 11],
-			"to": [14.5, 12, 11],
-			"shade": false,
-			"rotation": {"angle": -45, "axis": "x", "origin": [11, 9, 11]},
-			"faces": {
-				"north": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#head"},
-				"south": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#head"}
-			}
-		},
-		{
-			"from": [11, 6, 7.5],
-			"to": [11, 12, 14.5],
-			"shade": false,
-			"rotation": {"angle": 45, "axis": "z", "origin": [11, 9, 11]},
-			"faces": {
-				"east": {"uv": [0, 16, 16, 0], "texture": "#head"},
-				"west": {"uv": [0, 16, 16, 0], "texture": "#head"}
-			}
-		},
-		{
-			"from": [11, 6, 7.5],
-			"to": [11, 12, 14.5],
-			"shade": false,
-			"rotation": {"angle": -45, "axis": "z", "origin": [11, 9, 11]},
-			"faces": {
-				"east": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#head"},
-				"west": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#head"}
-			}
-		}
-	],
-	"groups": [
-		{
-			"name": "allium1",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [
-				0,
-				1,
-				{
-					"name": "petals",
-					"origin": [8, 8, 8],
-					"color": 0,
-					"children": [
-						{
-							"name": "petalsZ",
-							"origin": [8, 8, 8],
-							"color": 0,
-							"children": [2, 3]
-						},
-						{
-							"name": "petalsZ",
-							"origin": [8, 8, 8],
-							"color": 0,
-							"children": [4, 5]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "allium2",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [
-				6,
-				7,
-				{
-					"name": "petals",
-					"origin": [8, 8, 8],
-					"color": 0,
-					"children": [
-						{
-							"name": "petalsZ",
-							"origin": [8, 8, 8],
-							"color": 0,
-							"children": [8, 9]
-						},
-						{
-							"name": "petalsZ",
-							"origin": [8, 8, 8],
-							"color": 0,
-							"children": [10, 11]
-						}
-					]
-				}
-			]
-		}
-	]
+  "credit": "Created by Zecryt using Blockbench",
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "block/allium",
+    "cross": "block/allium",
+    "head": "block/allium_head"
+  },
+  "elements": [
+    {
+      "from": [-1.7, 0, 5],
+      "to": [11.7, 15, 5],
+      "shade": false,
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [5, 8, 5],
+        "rescale": true
+      },
+      "faces": {
+        "north": { "uv": [0, 1, 15, 16], "texture": "#cross" },
+        "south": { "uv": [0, 1, 15, 16], "texture": "#cross" }
+      }
+    },
+    {
+      "from": [5, 0, -1.7],
+      "to": [5, 15, 11.7],
+      "shade": false,
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [5, 8, 5],
+        "rescale": true
+      },
+      "faces": {
+        "east": { "uv": [0, 1, 15, 16], "texture": "#cross" },
+        "west": { "uv": [0, 1, 15, 16], "texture": "#cross" }
+      }
+    },
+    {
+      "from": [1.5, 8, 5],
+      "to": [8.5, 14, 5],
+      "shade": false,
+      "rotation": { "angle": 45, "axis": "x", "origin": [5, 11, 5] },
+      "faces": {
+        "north": { "uv": [0, 0, 7, 6], "texture": "#head" },
+        "south": { "uv": [0, 0, 7, 6], "texture": "#head" }
+      }
+    },
+    {
+      "from": [1.5, 8, 5],
+      "to": [8.5, 14, 5],
+      "shade": false,
+      "rotation": { "angle": -45, "axis": "x", "origin": [5, 11, 5] },
+      "faces": {
+        "north": { "uv": [0, 0, 7, 6], "rotation": 180, "texture": "#head" },
+        "south": { "uv": [0, 0, 7, 6], "rotation": 180, "texture": "#head" }
+      }
+    },
+    {
+      "from": [5, 8, 1.5],
+      "to": [5, 14, 8.5],
+      "shade": false,
+      "rotation": { "angle": 45, "axis": "z", "origin": [5, 11, 5] },
+      "faces": {
+        "east": { "uv": [0, 0, 7, 6], "texture": "#head" },
+        "west": { "uv": [0, 0, 7, 6], "texture": "#head" }
+      }
+    },
+    {
+      "from": [5, 8, 1.5],
+      "to": [5, 14, 8.5],
+      "shade": false,
+      "rotation": { "angle": -45, "axis": "z", "origin": [5, 11, 5] },
+      "faces": {
+        "east": { "uv": [0, 0, 7, 6], "rotation": 180, "texture": "#head" },
+        "west": { "uv": [0, 0, 7, 6], "rotation": 180, "texture": "#head" }
+      }
+    },
+    {
+      "from": [4.3, -2, 11],
+      "to": [17.7, 13, 11],
+      "shade": false,
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [11, 6, 11],
+        "rescale": true
+      },
+      "faces": {
+        "north": { "uv": [0, 1, 15, 16], "texture": "#cross" },
+        "south": { "uv": [0, 1, 15, 16], "texture": "#cross" }
+      }
+    },
+    {
+      "from": [11, -2, 4.3],
+      "to": [11, 13, 17.7],
+      "shade": false,
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [11, 6, 11],
+        "rescale": true
+      },
+      "faces": {
+        "east": { "uv": [0, 1, 15, 16], "texture": "#cross" },
+        "west": { "uv": [0, 1, 15, 16], "texture": "#cross" }
+      }
+    },
+    {
+      "from": [7.5, 6, 11],
+      "to": [14.5, 12, 11],
+      "shade": false,
+      "rotation": { "angle": 45, "axis": "x", "origin": [11, 9, 11] },
+      "faces": {
+        "north": { "uv": [0, 0, 7, 6], "texture": "#head" },
+        "south": { "uv": [0, 0, 7, 6], "texture": "#head" }
+      }
+    },
+    {
+      "from": [7.5, 6, 11],
+      "to": [14.5, 12, 11],
+      "shade": false,
+      "rotation": { "angle": -45, "axis": "x", "origin": [11, 9, 11] },
+      "faces": {
+        "north": { "uv": [0, 0, 7, 6], "rotation": 180, "texture": "#head" },
+        "south": { "uv": [0, 0, 7, 6], "rotation": 180, "texture": "#head" }
+      }
+    },
+    {
+      "from": [11, 6, 7.5],
+      "to": [11, 12, 14.5],
+      "shade": false,
+      "rotation": { "angle": 45, "axis": "z", "origin": [11, 9, 11] },
+      "faces": {
+        "east": { "uv": [0, 0, 7, 6], "texture": "#head" },
+        "west": { "uv": [0, 0, 7, 6], "texture": "#head" }
+      }
+    },
+    {
+      "from": [11, 6, 7.5],
+      "to": [11, 12, 14.5],
+      "shade": false,
+      "rotation": { "angle": -45, "axis": "z", "origin": [11, 9, 11] },
+      "faces": {
+        "east": { "uv": [0, 0, 7, 6], "rotation": 180, "texture": "#head" },
+        "west": { "uv": [0, 0, 7, 6], "rotation": 180, "texture": "#head" }
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "allium1",
+      "origin": [8, 8, 8],
+      "color": 0,
+      "children": [
+        0,
+        1,
+        {
+          "name": "petals",
+          "origin": [8, 8, 8],
+          "color": 0,
+          "children": [
+            {
+              "name": "petalsZ",
+              "origin": [8, 8, 8],
+              "color": 0,
+              "children": [2, 3]
+            },
+            {
+              "name": "petalsZ",
+              "origin": [8, 8, 8],
+              "color": 0,
+              "children": [4, 5]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "allium2",
+      "origin": [8, 8, 8],
+      "color": 0,
+      "children": [
+        6,
+        7,
+        {
+          "name": "petals",
+          "origin": [8, 8, 8],
+          "color": 0,
+          "children": [
+            {
+              "name": "petalsZ",
+              "origin": [8, 8, 8],
+              "color": 0,
+              "children": [8, 9]
+            },
+            {
+              "name": "petalsZ",
+              "origin": [8, 8, 8],
+              "color": 0,
+              "children": [10, 11]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
