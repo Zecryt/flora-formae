@@ -1,150 +1,154 @@
 {
-	"credit": "Created by Zecryt using Blockbench",
-	"ambientocclusion": false,
-	"textures": {
-		"1": "block/open_eyeblossom_head",
-		"2": "block/open_eyeblossom_emissive",
-		"cross": "block/open_eyeblossom_stem",
-		"particle": "block/open_eyeblossom"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 8],
-			"to": [16, 16, 8],
-			"shade": false,
-			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#cross"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#cross"}
-			}
-		},
-		{
-			"from": [8, 0, 0],
-			"to": [8, 16, 16],
-			"shade": false,
-			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
-			"faces": {
-				"east": {"uv": [0, 0, 16, 16], "texture": "#cross"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#cross"}
-			}
-		},
-		{
-			"from": [4, 7, 3],
-			"to": [8, 7, 13],
-			"rotation": {"angle": -45, "axis": "z", "origin": [8, 7, 5]},
-			"faces": {
-				"up": {"uv": [3, 6, 13, 10], "rotation": 270, "texture": "#1"},
-				"down": {"uv": [3, 6, 13, 10], "rotation": 270, "texture": "#1"}
-			}
-		},
-		{
-			"from": [8, 7, 3],
-			"to": [12, 7, 13],
-			"rotation": {"angle": 45, "axis": "z", "origin": [8, 7, 6]},
-			"faces": {
-				"up": {"uv": [3, 10, 13, 6], "rotation": 270, "texture": "#1"},
-				"down": {"uv": [3, 10, 13, 6], "rotation": 270, "texture": "#1"}
-			}
-		},
-		{
-			"from": [3, 7, 4],
-			"to": [13, 7, 8],
-			"rotation": {"angle": 45, "axis": "x", "origin": [10, 7, 8]},
-			"faces": {
-				"up": {"uv": [3, 6, 13, 10], "texture": "#1"},
-				"down": {"uv": [3, 6, 13, 10], "rotation": 180, "texture": "#1"}
-			}
-		},
-		{
-			"from": [3, 7, 8],
-			"to": [13, 7, 12],
-			"rotation": {"angle": -45, "axis": "x", "origin": [10, 7, 8]},
-			"faces": {
-				"up": {"uv": [3, 10, 13, 6], "texture": "#1"},
-				"down": {"uv": [3, 10, 13, 6], "rotation": 180, "texture": "#1"}
-			}
-		},
-		{
-			"from": [8, 10, 6],
-			"to": [8, 11, 10],
-			"rotation": {"angle": -45, "axis": "z", "origin": [8, 10, 6]},
-			"light_emission": 15,
-			"faces": {
-				"east": {"uv": [6, 5, 10, 6], "texture": "#2"},
-				"west": {"uv": [6, 5, 10, 6], "texture": "#2"}
-			}
-		},
-		{
-			"from": [8, 10, 6],
-			"to": [8, 11, 10],
-			"rotation": {"angle": 45, "axis": "z", "origin": [8, 10, 6]},
-			"light_emission": 15,
-			"faces": {
-				"east": {"uv": [10, 5, 6, 6], "texture": "#2"},
-				"west": {"uv": [10, 5, 6, 6], "texture": "#2"}
-			}
-		},
-		{
-			"from": [6, 10, 8],
-			"to": [10, 11, 8],
-			"rotation": {"angle": -45, "axis": "x", "origin": [6, 10, 8]},
-			"light_emission": 15,
-			"faces": {
-				"north": {"uv": [6, 5, 10, 6], "texture": "#2"},
-				"south": {"uv": [6, 5, 10, 6], "texture": "#2"}
-			}
-		},
-		{
-			"from": [6, 10, 8],
-			"to": [10, 11, 8],
-			"rotation": {"angle": 45, "axis": "x", "origin": [6, 10, 8]},
-			"light_emission": 15,
-			"faces": {
-				"north": {"uv": [10, 5, 6, 6], "texture": "#2"},
-				"south": {"uv": [10, 5, 6, 6], "texture": "#2"}
-			}
-		}
-	],
-	"groups": [
-		0,
-		1,
-		{
-			"name": "petalsBottom",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [
-				{
-					"name": "petalsX",
-					"origin": [8, 8, 8],
-					"color": 0,
-					"children": [2, 3]
-				},
-				{
-					"name": "petalsZ",
-					"origin": [8, 8, 8],
-					"color": 0,
-					"children": [4, 5]
-				}
-			]
-		},
-		{
-			"name": "group",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [
-				{
-					"name": "group",
-					"origin": [8, 8, 8],
-					"color": 0,
-					"children": [6, 7]
-				},
-				{
-					"name": "group",
-					"origin": [8, 8, 8],
-					"color": 0,
-					"children": [8, 9]
-				}
-			]
-		}
-	]
+  "credit": "Created by Zecryt using Blockbench",
+  "ambientocclusion": false,
+  "textures": {
+    "head": "block/open_eyeblossom_head",
+    "emissive": "block/open_eyeblossom_emissive",
+    "cross": "block/open_eyeblossom_stem",
+    "particle": "block/open_eyeblossom"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 8],
+      "to": [16, 16, 8],
+      "shade": false,
+      "rotation": { "angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true },
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#cross" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#cross" }
+      }
+    },
+    {
+      "from": [8, 0, 0],
+      "to": [8, 16, 16],
+      "shade": false,
+      "rotation": { "angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true },
+      "faces": {
+        "east": { "uv": [0, 0, 16, 16], "texture": "#cross" },
+        "west": { "uv": [0, 0, 16, 16], "texture": "#cross" }
+      }
+    },
+    {
+      "from": [4, 7, 3],
+      "to": [8, 7, 13],
+      "rotation": { "angle": -45, "axis": "z", "origin": [8, 7, 5] },
+      "faces": {
+        "up": { "uv": [3, 6, 13, 10], "rotation": 270, "texture": "#head" },
+        "down": { "uv": [3, 6, 13, 10], "rotation": 270, "texture": "#head" }
+      }
+    },
+    {
+      "from": [8, 7, 3],
+      "to": [12, 7, 13],
+      "rotation": { "angle": 45, "axis": "z", "origin": [8, 7, 6] },
+      "faces": {
+        "up": { "uv": [3, 10, 13, 6], "rotation": 270, "texture": "#head" },
+        "down": { "uv": [3, 10, 13, 6], "rotation": 270, "texture": "#head" }
+      }
+    },
+    {
+      "from": [3, 7, 4],
+      "to": [13, 7, 8],
+      "rotation": { "angle": 45, "axis": "x", "origin": [10, 7, 8] },
+      "faces": {
+        "up": { "uv": [3, 6, 13, 10], "texture": "#head" },
+        "down": { "uv": [3, 6, 13, 10], "rotation": 180, "texture": "#head" }
+      }
+    },
+    {
+      "from": [3, 7, 8],
+      "to": [13, 7, 12],
+      "rotation": { "angle": -45, "axis": "x", "origin": [10, 7, 8] },
+      "faces": {
+        "up": { "uv": [3, 10, 13, 6], "texture": "#head" },
+        "down": { "uv": [3, 10, 13, 6], "rotation": 180, "texture": "#head" }
+      }
+    },
+    {
+      "from": [8, 10, 6],
+      "to": [8, 11, 10],
+      "shade": false,
+      "rotation": { "angle": -45, "axis": "z", "origin": [8, 10, 6], "rescale": true },
+      "light_emission": 15,
+      "faces": {
+        "east": { "uv": [6, 5, 10, 6], "texture": "#emissive" },
+        "west": { "uv": [6, 5, 10, 6], "texture": "#emissive" }
+      }
+    },
+    {
+      "from": [8, 10, 6],
+      "to": [8, 11, 10],
+      "shade": false,
+      "rotation": { "angle": 45, "axis": "z", "origin": [8, 10, 6], "rescale": true },
+      "light_emission": 15,
+      "faces": {
+        "east": { "uv": [10, 5, 6, 6], "texture": "#emissive" },
+        "west": { "uv": [10, 5, 6, 6], "texture": "#emissive" }
+      }
+    },
+    {
+      "from": [6, 10, 8],
+      "to": [10, 11, 8],
+      "shade": false,
+      "rotation": { "angle": -45, "axis": "x", "origin": [6, 10, 8], "rescale": true },
+      "light_emission": 15,
+      "faces": {
+        "north": { "uv": [6, 5, 10, 6], "texture": "#emissive" },
+        "south": { "uv": [6, 5, 10, 6], "texture": "#emissive" }
+      }
+    },
+    {
+      "from": [6, 10, 8],
+      "to": [10, 11, 8],
+      "shade": false,
+      "rotation": { "angle": 45, "axis": "x", "origin": [6, 10, 8], "rescale": true },
+      "light_emission": 15,
+      "faces": {
+        "north": { "uv": [10, 5, 6, 6], "texture": "#emissive" },
+        "south": { "uv": [10, 5, 6, 6], "texture": "#emissive" }
+      }
+    }
+  ],
+  "groups": [
+    0,
+    1,
+    {
+      "name": "petalsBottom",
+      "origin": [8, 8, 8],
+      "color": 0,
+      "children": [
+        {
+          "name": "petalsX",
+          "origin": [8, 8, 8],
+          "color": 0,
+          "children": [2, 3]
+        },
+        {
+          "name": "petalsZ",
+          "origin": [8, 8, 8],
+          "color": 0,
+          "children": [4, 5]
+        }
+      ]
+    },
+    {
+      "name": "group",
+      "origin": [8, 8, 8],
+      "color": 0,
+      "children": [
+        {
+          "name": "group",
+          "origin": [8, 8, 8],
+          "color": 0,
+          "children": [6, 7]
+        },
+        {
+          "name": "group",
+          "origin": [8, 8, 8],
+          "color": 0,
+          "children": [8, 9]
+        }
+      ]
+    }
+  ]
 }

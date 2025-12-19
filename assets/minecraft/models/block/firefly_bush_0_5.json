@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/bushy_emissive_5",
+  "textures": {
+    "cross": "minecraft:block/firefly_bush",
+    "emissive": "minecraft:block/firefly_bush_emissive_0",
+    "emissive_1": "minecraft:block/firefly_bush_emissive_1",
+    "emissive_2": "minecraft:block/firefly_bush_emissive_2",
+    "emissive_3": "minecraft:block/firefly_bush_emissive_3",
+    "emissive_4": "minecraft:block/firefly_bush_emissive_4"
+  }
+}
