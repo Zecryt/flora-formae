@@ -1,79 +1,73 @@
 {
-	"credit": "Created by Zecryt using Blockbench",
-	"ambientocclusion": false,
-	"textures": {
-		"particle": "#stem"
-	},
-	"elements": [
-		{
-			"from": [0, -1, 8],
-			"to": [16, 15, 8],
-			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#stem"},
-				"south": {"uv": [16, 0, 0, 16], "texture": "#stem"}
-			}
-		},
-		{
-			"from": [8, -1, 0],
-			"to": [8, 15, 16],
-			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
-			"faces": {
-				"east": {"uv": [16, 0, 0, 16], "texture": "#stem"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#stem"}
-			}
-		},
-		{
-			"from": [-8, -1, 0],
-			"to": [8, -1, 16],
-			"rotation": {"angle": -45, "axis": "z", "origin": [8, -1, 0]},
-			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#leaves"},
-				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#leaves"}
-			}
-		},
-		{
-			"from": [8, -1, 0],
-			"to": [24, -1, 16],
-			"rotation": {"angle": 45, "axis": "z", "origin": [8, -1, 0]},
-			"faces": {
-				"up": {"uv": [0, 16, 16, 0], "rotation": 270, "texture": "#leaves"},
-				"down": {"uv": [0, 16, 16, 0], "rotation": 270, "texture": "#leaves"}
-			}
-		},
-		{
-			"from": [0, -1, -8],
-			"to": [16, -1, 8],
-			"rotation": {"angle": 45, "axis": "x", "origin": [16, -1, 8]},
-			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
-				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#leaves"}
-			}
-		},
-		{
-			"from": [0, -1, 8],
-			"to": [16, -1, 24],
-			"rotation": {"angle": -45, "axis": "x", "origin": [8, -1, 8]},
-			"faces": {
-				"up": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#leaves"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#leaves"}
-			}
-		}
-	],
-	"groups": [
-		0,
-		1,
-		{
-			"name": "X",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [2, 3]
-		},
-		{
-			"name": "Z",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [4, 5]
-		}
-	]
+  "credit": "Created by Zecryt using Blockbench",
+  "ambientocclusion": false,
+  "textures": { "particle": "#stem" },
+  "elements": [
+    {
+      "from": [0, -1, 8],
+      "to": [16, 15, 8],
+      "shade": false,
+      "rotation": { "angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true },
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#stem" },
+        "south": { "uv": [16, 0, 0, 16], "texture": "#stem" }
+      }
+    },
+    {
+      "from": [8, -1, 0],
+      "to": [8, 15, 16],
+      "shade": false,
+      "rotation": { "angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true },
+      "faces": {
+        "east": { "uv": [16, 0, 0, 16], "texture": "#stem" },
+        "west": { "uv": [0, 0, 16, 16], "texture": "#stem" }
+      }
+    },
+    {
+      "from": [-8, -1, 0],
+      "to": [8, -1, 16],
+      "shade": false,
+      "rotation": { "angle": -45, "axis": "z", "origin": [8, -1, 0] },
+      "faces": {
+        "up": { "uv": [0, 0, 16, 16], "rotation": 270, "texture": "#leaves" },
+        "down": { "uv": [0, 0, 16, 16], "rotation": 270, "texture": "#leaves" }
+      }
+    },
+    {
+      "from": [8, -1, 0],
+      "to": [24, -1, 16],
+      "shade": false,
+      "rotation": { "angle": 45, "axis": "z", "origin": [8, -1, 0] },
+      "faces": {
+        "up": { "uv": [0, 16, 16, 0], "rotation": 270, "texture": "#leaves" },
+        "down": { "uv": [0, 16, 16, 0], "rotation": 270, "texture": "#leaves" }
+      }
+    },
+    {
+      "from": [0, -1, -8],
+      "to": [16, -1, 8],
+      "shade": false,
+      "rotation": { "angle": 45, "axis": "x", "origin": [16, -1, 8] },
+      "faces": {
+        "up": { "uv": [0, 0, 16, 16], "texture": "#leaves" },
+        "down": { "uv": [0, 0, 16, 16], "rotation": 180, "texture": "#leaves" }
+      }
+    },
+    {
+      "from": [0, -1, 8],
+      "to": [16, -1, 24],
+      "shade": false,
+      "rotation": { "angle": -45, "axis": "x", "origin": [8, -1, 8] },
+      "faces": {
+        "up": { "uv": [16, 0, 0, 16], "rotation": 180, "texture": "#leaves" },
+        "down": { "uv": [0, 0, 16, 16], "texture": "#leaves" }
+      }
+    }
+  ],
+  "groups": [
+    0,
+    1,
+    { "name": "X", "origin": [8, 8, 8], "color": 0, "children": [2, 3] },
+    { "name": "Z", "origin": [8, 8, 8], "color": 0, "children": [4, 5] }
+  ]
 }
