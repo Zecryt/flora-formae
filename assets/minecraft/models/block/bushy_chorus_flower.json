@@ -1,7 +1,10 @@
 {
   "credit": "Created by Zecryt using Blockbench",
   "parent": "block/block",
-  "textures": { "bottom": "block/chorus_plant", "particle": "#texture" },
+  "textures": {
+    "bottom": "block/chorus_plant",
+    "particle": "#texture"
+  },
   "elements": [
     {
       "from": [2, 14, 2],
