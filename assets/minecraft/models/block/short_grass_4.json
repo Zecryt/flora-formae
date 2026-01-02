@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:block/bushy_tinted",
-    "textures": {
-      "cross": "minecraft:block/short_grass_4"
-    }
+  "parent": "minecraft:block/bushy_tinted",
+  "textures": {
+    "cross": "minecraft:block/short_grass_4"
   }
+}
