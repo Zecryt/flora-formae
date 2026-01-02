@@ -2,7 +2,7 @@
   "credit": "Created by Zecryt using Blockbench",
   "ambientocclusion": false,
   "textures": {
-    "1": "block/red_mushroom_model",
+    "fungus": "block/red_mushroom_model",
     "flowerpot": "block/flower_pot",
     "dirt": "block/dirt",
     "particle": "block/red_mushroom"
@@ -64,33 +64,33 @@
       "from": [7, 4, 7],
       "to": [9, 7, 9],
       "faces": {
-        "north": { "uv": [12, 0, 14, 3], "texture": "#1" },
-        "east": { "uv": [12, 0, 14, 3], "texture": "#1" },
-        "south": { "uv": [12, 0, 14, 3], "texture": "#1" },
-        "west": { "uv": [12, 0, 14, 3], "texture": "#1" }
+        "north": { "uv": [12, 0, 14, 3], "texture": "#fungus" },
+        "east": { "uv": [12, 0, 14, 3], "texture": "#fungus" },
+        "south": { "uv": [12, 0, 14, 3], "texture": "#fungus" },
+        "west": { "uv": [12, 0, 14, 3], "texture": "#fungus" }
       }
     },
     {
       "from": [5, 7, 5],
       "to": [11, 10, 11],
       "faces": {
-        "north": { "uv": [6, 0, 12, 3], "texture": "#1" },
-        "east": { "uv": [6, 3, 12, 6], "texture": "#1" },
-        "south": { "uv": [6, 6, 12, 9], "texture": "#1" },
-        "west": { "uv": [6, 9, 12, 12], "texture": "#1" },
-        "up": { "uv": [6, 6, 0, 0], "texture": "#1" },
-        "down": { "uv": [6, 6, 0, 12], "texture": "#1" }
+        "north": { "uv": [6, 0, 12, 3], "texture": "#fungus" },
+        "east": { "uv": [6, 3, 12, 6], "texture": "#fungus" },
+        "south": { "uv": [6, 6, 12, 9], "texture": "#fungus" },
+        "west": { "uv": [6, 9, 12, 12], "texture": "#fungus" },
+        "up": { "uv": [6, 6, 0, 0], "texture": "#fungus" },
+        "down": { "uv": [6, 6, 0, 12], "texture": "#fungus" }
       }
     },
     {
       "from": [6, 10, 6],
       "to": [10, 12, 10],
       "faces": {
-        "north": { "uv": [12, 13, 16, 15], "texture": "#1" },
-        "east": { "uv": [8, 13, 12, 15], "texture": "#1" },
-        "south": { "uv": [4, 13, 8, 15], "texture": "#1" },
-        "west": { "uv": [0, 13, 4, 15], "texture": "#1" },
-        "up": { "uv": [12, 8, 16, 12], "texture": "#1" }
+        "north": { "uv": [12, 13, 16, 15], "texture": "#fungus" },
+        "east": { "uv": [8, 13, 12, 15], "texture": "#fungus" },
+        "south": { "uv": [4, 13, 8, 15], "texture": "#fungus" },
+        "west": { "uv": [0, 13, 4, 15], "texture": "#fungus" },
+        "up": { "uv": [12, 8, 16, 12], "texture": "#fungus" }
       }
     }
   ],

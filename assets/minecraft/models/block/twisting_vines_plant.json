@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/bushy",
+  "parent": "minecraft:block/bushy_different",
   "textures": {
-    "cross": "minecraft:block/twisting_vines_plant"
+    "cross": "minecraft:block/twisting_vines_plant",
+    "bushy": "minecraft:block/twisting_vines"
   }
 }

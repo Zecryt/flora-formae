@@ -173,41 +173,11 @@
   "groups": [
     0,
     1,
-    {
-      "name": "X",
-      "origin": [8, 0, 0],
-      "color": 0,
-      "children": [2, 3]
-    },
-    {
-      "name": "Z",
-      "origin": [8, 0, 0],
-      "color": 0,
-      "children": [4, 5]
-    },
-    {
-      "name": "berries",
-      "origin": [0, 0, 0],
-      "color": 0,
-      "children": [6, 7]
-    },
-    {
-      "name": "berries",
-      "origin": [0, 0, 0],
-      "color": 0,
-      "children": [8, 9]
-    },
-    {
-      "name": "berries",
-      "origin": [0, 0, 0],
-      "color": 0,
-      "children": [10, 11]
-    },
-    {
-      "name": "berries",
-      "origin": [0, 0, 0],
-      "color": 0,
-      "children": [12, 13]
-    }
+    { "name": "X", "origin": [8, 0, 0], "color": 0, "children": [2, 3] },
+    { "name": "Z", "origin": [8, 0, 0], "color": 0, "children": [4, 5] },
+    { "name": "berries", "origin": [0, 0, 0], "color": 0, "children": [6, 7] },
+    { "name": "berries", "origin": [0, 0, 0], "color": 0, "children": [8, 9] },
+    { "name": "berries", "origin": [0, 0, 0], "color": 0, "children": [10, 11] },
+    { "name": "berries", "origin": [0, 0, 0], "color": 0, "children": [12, 13] }
   ]
 }

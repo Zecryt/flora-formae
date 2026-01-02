@@ -1,90 +1,80 @@
 {
-	"credit": "Created by Zecryt using Blockbench",
-	"texture_size": [32, 32],
-	"textures": {
-		"0": "block/brown_mushroom_model",
-		"particle": "block/brown_mushroom_model"
-	},
-	"elements": [
-		{
-			"from": [3, 0, 3],
-			"to": [5, 4, 5],
-			"faces": {
-				"north": {"uv": [4, 7, 5, 9], "texture": "#0"},
-				"east": {"uv": [4, 7, 5, 9], "texture": "#0"},
-				"south": {"uv": [4, 7, 5, 9], "texture": "#0"},
-				"west": {"uv": [4, 7, 5, 9], "texture": "#0"}
-			}
-		},
-		{
-			"from": [1, 4, 1],
-			"to": [7, 6, 7],
-			"faces": {
-				"north": {"uv": [4.5, 6, 7.5, 7], "texture": "#0"},
-				"east": {"uv": [7.5, 0, 10.5, 1], "texture": "#0"},
-				"south": {"uv": [7.5, 1, 10.5, 2], "texture": "#0"},
-				"west": {"uv": [7.5, 2, 10.5, 3], "texture": "#0"},
-				"up": {"uv": [3.5, 3.5, 0.5, 0.5], "texture": "#0"},
-				"down": {"uv": [3.5, 4.5, 0.5, 7.5], "texture": "#0"}
-			}
-		},
-		{
-			"from": [2, 6, 2],
-			"to": [6, 7, 6],
-			"faces": {
-				"north": {"uv": [7, 5, 10, 5.5], "texture": "#0"},
-				"east": {"uv": [7, 5.5, 10, 6], "texture": "#0"},
-				"south": {"uv": [7, 7, 10, 7.5], "texture": "#0"},
-				"west": {"uv": [7, 7.5, 10, 8], "texture": "#0"},
-				"up": {"uv": [6.5, 2.5, 4.5, 0.5], "texture": "#0"}
-			}
-		},
-		{
-			"from": [11, 0, 11],
-			"to": [13, 3, 13],
-			"faces": {
-				"north": {"uv": [4, 7, 5, 8.5], "texture": "#0"},
-				"east": {"uv": [4, 7, 5, 8.5], "texture": "#0"},
-				"south": {"uv": [4, 7, 5, 8.5], "texture": "#0"},
-				"west": {"uv": [4, 7, 5, 8.5], "texture": "#0"}
-			}
-		},
-		{
-			"from": [9, 3, 9],
-			"to": [15, 5, 15],
-			"faces": {
-				"north": {"uv": [4.5, 6, 7.5, 7], "texture": "#0"},
-				"east": {"uv": [7.5, 0, 10.5, 1], "texture": "#0"},
-				"south": {"uv": [7.5, 1, 10.5, 2], "texture": "#0"},
-				"west": {"uv": [7.5, 2, 10.5, 3], "texture": "#0"},
-				"up": {"uv": [3.5, 3.5, 0.5, 0.5], "texture": "#0"},
-				"down": {"uv": [3.5, 4.5, 0.5, 7.5], "texture": "#0"}
-			}
-		},
-		{
-			"from": [10, 5, 10],
-			"to": [14, 6, 14],
-			"faces": {
-				"north": {"uv": [7, 5, 10, 5.5], "texture": "#0"},
-				"east": {"uv": [7, 5.5, 10, 6], "texture": "#0"},
-				"south": {"uv": [7, 7, 10, 7.5], "texture": "#0"},
-				"west": {"uv": [7, 7.5, 10, 8], "texture": "#0"},
-				"up": {"uv": [6.5, 2.5, 4.5, 0.5], "texture": "#0"}
-			}
-		}
-	],
-	"groups": [
-		{
-			"name": "brown_mushroom",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [0, 1, 2]
-		},
-		{
-			"name": "brown_mushroom",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [3, 4, 5]
-		}
-	]
+  "credit": "Created by Zecryt using Blockbench",
+  "texture_size": [32, 32],
+  "textures": {
+    "fungus": "block/brown_mushroom_model",
+    "particle": "block/brown_mushroom_model"
+  },
+  "elements": [
+    {
+      "from": [3, 0, 3],
+      "to": [5, 4, 5],
+      "faces": {
+        "north": { "uv": [4, 7, 5, 9], "texture": "#fungus" },
+        "east": { "uv": [4, 7, 5, 9], "texture": "#fungus" },
+        "south": { "uv": [4, 7, 5, 9], "texture": "#fungus" },
+        "west": { "uv": [4, 7, 5, 9], "texture": "#fungus" }
+      }
+    },
+    {
+      "from": [1, 4, 1],
+      "to": [7, 6, 7],
+      "faces": {
+        "north": { "uv": [4.5, 6, 7.5, 7], "texture": "#fungus" },
+        "east": { "uv": [7.5, 0, 10.5, 1], "texture": "#fungus" },
+        "south": { "uv": [7.5, 1, 10.5, 2], "texture": "#fungus" },
+        "west": { "uv": [7.5, 2, 10.5, 3], "texture": "#fungus" },
+        "up": { "uv": [3.5, 3.5, 0.5, 0.5], "texture": "#fungus" },
+        "down": { "uv": [3.5, 4.5, 0.5, 7.5], "texture": "#fungus" }
+      }
+    },
+    {
+      "from": [2, 6, 2],
+      "to": [6, 7, 6],
+      "faces": {
+        "north": { "uv": [7, 5, 10, 5.5], "texture": "#fungus" },
+        "east": { "uv": [7, 5.5, 10, 6], "texture": "#fungus" },
+        "south": { "uv": [7, 7, 10, 7.5], "texture": "#fungus" },
+        "west": { "uv": [7, 7.5, 10, 8], "texture": "#fungus" },
+        "up": { "uv": [6.5, 2.5, 4.5, 0.5], "texture": "#fungus" }
+      }
+    },
+    {
+      "from": [11, 0, 11],
+      "to": [13, 3, 13],
+      "faces": {
+        "north": { "uv": [4, 7, 5, 8.5], "texture": "#fungus" },
+        "east": { "uv": [4, 7, 5, 8.5], "texture": "#fungus" },
+        "south": { "uv": [4, 7, 5, 8.5], "texture": "#fungus" },
+        "west": { "uv": [4, 7, 5, 8.5], "texture": "#fungus" }
+      }
+    },
+    {
+      "from": [9, 3, 9],
+      "to": [15, 5, 15],
+      "faces": {
+        "north": { "uv": [4.5, 6, 7.5, 7], "texture": "#fungus" },
+        "east": { "uv": [7.5, 0, 10.5, 1], "texture": "#fungus" },
+        "south": { "uv": [7.5, 1, 10.5, 2], "texture": "#fungus" },
+        "west": { "uv": [7.5, 2, 10.5, 3], "texture": "#fungus" },
+        "up": { "uv": [3.5, 3.5, 0.5, 0.5], "texture": "#fungus" },
+        "down": { "uv": [3.5, 4.5, 0.5, 7.5], "texture": "#fungus" }
+      }
+    },
+    {
+      "from": [10, 5, 10],
+      "to": [14, 6, 14],
+      "faces": {
+        "north": { "uv": [7, 5, 10, 5.5], "texture": "#fungus" },
+        "east": { "uv": [7, 5.5, 10, 6], "texture": "#fungus" },
+        "south": { "uv": [7, 7, 10, 7.5], "texture": "#fungus" },
+        "west": { "uv": [7, 7.5, 10, 8], "texture": "#fungus" },
+        "up": { "uv": [6.5, 2.5, 4.5, 0.5], "texture": "#fungus" }
+      }
+    }
+  ],
+  "groups": [
+    { "name": "brown_mushroom", "origin": [0, 0, 0], "color": 0, "children": [0, 1, 2] },
+    { "name": "brown_mushroom", "origin": [0, 0, 0], "color": 0, "children": [3, 4, 5] }
+  ]
 }

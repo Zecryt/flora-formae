@@ -1,7 +1,7 @@
 {
-    "parent": "minecraft:block/bushy_inverted",
-    "textures": {
-        "cross": "minecraft:block/pale_hanging_moss",
-        "bushy": "minecraft:block/pale_hanging_moss_tip"
-    }
+  "parent": "minecraft:block/bushy_inverted",
+  "textures": {
+    "cross": "minecraft:block/pale_hanging_moss",
+    "bushy": "minecraft:block/pale_hanging_moss_tip"
+  }
 }

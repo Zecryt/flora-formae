@@ -1,52 +1,45 @@
 {
-	"credit": "Created by Zecryt using Blockbench",
-	"texture_size": [32, 32],
-	"textures": {
-		"0": "block/crimson_fungus_model",
-		"particle": "block/crimson_fungus_model"
-	},
-	"elements": [
-		{
-			"from": [7, 0, 7],
-			"to": [9, 5, 9],
-			"faces": {
-				"north": {"uv": [5, 9.5, 6, 12], "texture": "#0"},
-				"east": {"uv": [5, 9.5, 6, 12], "texture": "#0"},
-				"south": {"uv": [5, 9.5, 6, 12], "texture": "#0"},
-				"west": {"uv": [5, 9.5, 6, 12], "texture": "#0"}
-			}
-		},
-		{
-			"from": [4, 5, 4],
-			"to": [12, 8, 12],
-			"faces": {
-				"north": {"uv": [4, 6, 8, 7.5], "texture": "#0"},
-				"east": {"uv": [7, 0, 11, 1.5], "texture": "#0"},
-				"south": {"uv": [7, 1.5, 11, 3], "texture": "#0"},
-				"west": {"uv": [7, 3, 11, 4.5], "texture": "#0"},
-				"up": {"uv": [4, 4, 0, 0], "texture": "#0"},
-				"down": {"uv": [4, 4, 0, 8], "texture": "#0"}
-			}
-		},
-		{
-			"from": [5, 8, 5],
-			"to": [11, 12, 11],
-			"faces": {
-				"north": {"uv": [4, 7.5, 7, 9.5], "texture": "#0"},
-				"east": {"uv": [7, 7.5, 10, 9.5], "texture": "#0"},
-				"south": {"uv": [0, 8, 3, 10], "texture": "#0"},
-				"west": {"uv": [8, 4.5, 11, 6.5], "texture": "#0"},
-				"up": {"uv": [7, 3, 4, 0], "texture": "#0"},
-				"down": {"uv": [7, 3, 4, 6], "texture": "#0"}
-			}
-		}
-	],
-	"groups": [
-		{
-			"name": "crimson_fungus",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [0, 1, 2]
-		}
-	]
+  "credit": "Created by Zecryt using Blockbench",
+  "texture_size": [32, 32],
+  "textures": {
+    "fungus": "block/crimson_fungus_model",
+    "particle": "block/crimson_fungus_model"
+  },
+  "elements": [
+    {
+      "from": [7, 0, 7],
+      "to": [9, 5, 9],
+      "faces": {
+        "north": { "uv": [5, 9.5, 6, 12], "texture": "#fungus" },
+        "east": { "uv": [5, 9.5, 6, 12], "texture": "#fungus" },
+        "south": { "uv": [5, 9.5, 6, 12], "texture": "#fungus" },
+        "west": { "uv": [5, 9.5, 6, 12], "texture": "#fungus" }
+      }
+    },
+    {
+      "from": [4, 5, 4],
+      "to": [12, 8, 12],
+      "faces": {
+        "north": { "uv": [4, 6, 8, 7.5], "texture": "#fungus" },
+        "east": { "uv": [7, 0, 11, 1.5], "texture": "#fungus" },
+        "south": { "uv": [7, 1.5, 11, 3], "texture": "#fungus" },
+        "west": { "uv": [7, 3, 11, 4.5], "texture": "#fungus" },
+        "up": { "uv": [4, 4, 0, 0], "texture": "#fungus" },
+        "down": { "uv": [4, 4, 0, 8], "texture": "#fungus" }
+      }
+    },
+    {
+      "from": [5, 8, 5],
+      "to": [11, 12, 11],
+      "faces": {
+        "north": { "uv": [4, 7.5, 7, 9.5], "texture": "#fungus" },
+        "east": { "uv": [7, 7.5, 10, 9.5], "texture": "#fungus" },
+        "south": { "uv": [0, 8, 3, 10], "texture": "#fungus" },
+        "west": { "uv": [8, 4.5, 11, 6.5], "texture": "#fungus" },
+        "up": { "uv": [7, 3, 4, 0], "texture": "#fungus" },
+        "down": { "uv": [7, 3, 4, 6], "texture": "#fungus" }
+      }
+    }
+  ],
+  "groups": [{ "name": "crimson_fungus", "origin": [0, 0, 0], "color": 0, "children": [0, 1, 2] }]
 }

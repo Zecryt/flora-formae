@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/bushy",
+  "parent": "minecraft:block/bushy_different",
   "textures": {
-    "cross": "minecraft:block/lilac_bottom"
+    "cross": "minecraft:block/lilac_bottom",
+    "bushy": "minecraft:block/lilac_top"
   }
 }

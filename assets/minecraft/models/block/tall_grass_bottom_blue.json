@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/bushy_tinted",
+  "parent": "minecraft:block/bushy_tinted_different",
   "textures": {
-    "cross": "minecraft:block/tall_grass_bottom_blue"
+    "cross": "minecraft:block/tall_grass_bottom_blue",
+    "bushy": "minecraft:block/tall_grass_top_blue"
   }
 }

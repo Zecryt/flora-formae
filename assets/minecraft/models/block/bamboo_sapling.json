@@ -1,4 +1,6 @@
 {
   "parent": "minecraft:block/bushy_bipyramid",
-  "textures": { "cross": "minecraft:block/bamboo_stage0" }
+  "textures": {
+    "cross": "minecraft:block/bamboo_stage0"
+  }
 }
