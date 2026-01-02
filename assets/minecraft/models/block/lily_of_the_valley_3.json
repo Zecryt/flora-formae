@@ -1110,24 +1110,9 @@
           "origin": [0, 0, 0],
           "color": 0,
           "children": [
-            {
-              "name": "1",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [2, 3, 4, 5, 6]
-            },
-            {
-              "name": "2",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [7, 8, 9, 10, 11]
-            },
-            {
-              "name": "3",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [12, 13, 14, 15, 16]
-            }
+            { "name": "1", "origin": [-0.3, 2.3, 1], "color": 0, "children": [2, 3, 4, 5, 6] },
+            { "name": "2", "origin": [-0.3, 2.3, 1], "color": 0, "children": [7, 8, 9, 10, 11] },
+            { "name": "3", "origin": [-0.3, 2.3, 1], "color": 0, "children": [12, 13, 14, 15, 16] }
           ]
         },
         {
@@ -1135,32 +1120,12 @@
           "origin": [0, 0, 0],
           "color": 0,
           "children": [
-            {
-              "name": "1",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [17, 18, 19, 20, 21]
-            },
-            {
-              "name": "2",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [22, 23, 24, 25, 26]
-            },
-            {
-              "name": "3",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [27, 28, 29, 30, 31]
-            }
+            { "name": "1", "origin": [-0.3, 2.3, 1], "color": 0, "children": [17, 18, 19, 20, 21] },
+            { "name": "2", "origin": [-0.3, 2.3, 1], "color": 0, "children": [22, 23, 24, 25, 26] },
+            { "name": "3", "origin": [-0.3, 2.3, 1], "color": 0, "children": [27, 28, 29, 30, 31] }
           ]
         },
-        {
-          "name": "1",
-          "origin": [-0.3, 2.3, 1],
-          "color": 0,
-          "children": [32, 33, 34, 35, 36]
-        }
+        { "name": "1", "origin": [-0.3, 2.3, 1], "color": 0, "children": [32, 33, 34, 35, 36] }
       ]
     },
     {
@@ -1175,24 +1140,9 @@
           "origin": [0, 0, 0],
           "color": 0,
           "children": [
-            {
-              "name": "1",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [39, 40, 41, 42, 43]
-            },
-            {
-              "name": "2",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [44, 45, 46, 47, 48]
-            },
-            {
-              "name": "3",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [49, 50, 51, 52, 53]
-            }
+            { "name": "1", "origin": [-0.3, 2.3, 1], "color": 0, "children": [39, 40, 41, 42, 43] },
+            { "name": "2", "origin": [-0.3, 2.3, 1], "color": 0, "children": [44, 45, 46, 47, 48] },
+            { "name": "3", "origin": [-0.3, 2.3, 1], "color": 0, "children": [49, 50, 51, 52, 53] }
           ]
         },
         {
@@ -1200,32 +1150,12 @@
           "origin": [0, 0, 0],
           "color": 0,
           "children": [
-            {
-              "name": "1",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [54, 55, 56, 57, 58]
-            },
-            {
-              "name": "2",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [59, 60, 61, 62, 63]
-            },
-            {
-              "name": "3",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [64, 65, 66, 67, 68]
-            }
+            { "name": "1", "origin": [-0.3, 2.3, 1], "color": 0, "children": [54, 55, 56, 57, 58] },
+            { "name": "2", "origin": [-0.3, 2.3, 1], "color": 0, "children": [59, 60, 61, 62, 63] },
+            { "name": "3", "origin": [-0.3, 2.3, 1], "color": 0, "children": [64, 65, 66, 67, 68] }
           ]
         },
-        {
-          "name": "1",
-          "origin": [-0.3, 2.3, 1],
-          "color": 0,
-          "children": [69, 70, 71, 72, 73]
-        }
+        { "name": "1", "origin": [-0.3, 2.3, 1], "color": 0, "children": [69, 70, 71, 72, 73] }
       ]
     },
     {
@@ -1240,24 +1170,9 @@
           "origin": [0, 0, 0],
           "color": 0,
           "children": [
-            {
-              "name": "1",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [76, 77, 78, 79, 80]
-            },
-            {
-              "name": "2",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [81, 82, 83, 84, 85]
-            },
-            {
-              "name": "3",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [86, 87, 88, 89, 90]
-            }
+            { "name": "1", "origin": [-0.3, 2.3, 1], "color": 0, "children": [76, 77, 78, 79, 80] },
+            { "name": "2", "origin": [-0.3, 2.3, 1], "color": 0, "children": [81, 82, 83, 84, 85] },
+            { "name": "3", "origin": [-0.3, 2.3, 1], "color": 0, "children": [86, 87, 88, 89, 90] }
           ]
         },
         {
@@ -1265,12 +1180,7 @@
           "origin": [0, 0, 0],
           "color": 0,
           "children": [
-            {
-              "name": "1",
-              "origin": [-0.3, 2.3, 1],
-              "color": 0,
-              "children": [91, 92, 93, 94, 95]
-            },
+            { "name": "1", "origin": [-0.3, 2.3, 1], "color": 0, "children": [91, 92, 93, 94, 95] },
             {
               "name": "2",
               "origin": [-0.3, 2.3, 1],
@@ -1285,12 +1195,7 @@
             }
           ]
         },
-        {
-          "name": "1",
-          "origin": [-0.3, 2.3, 1],
-          "color": 0,
-          "children": [106, 107, 108, 109, 110]
-        }
+        { "name": "1", "origin": [-0.3, 2.3, 1], "color": 0, "children": [106, 107, 108, 109, 110] }
       ]
     }
   ]

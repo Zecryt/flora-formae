@@ -117,18 +117,8 @@
       "origin": [8, 8, 8],
       "color": 0,
       "children": [
-        {
-          "name": "petalsX",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [2, 3]
-        },
-        {
-          "name": "petalsZ",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [4, 5]
-        }
+        { "name": "petalsX", "origin": [8, 8, 8], "color": 0, "children": [2, 3] },
+        { "name": "petalsZ", "origin": [8, 8, 8], "color": 0, "children": [4, 5] }
       ]
     },
     {
@@ -136,18 +126,8 @@
       "origin": [8, 8, 8],
       "color": 0,
       "children": [
-        {
-          "name": "group",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [6, 7]
-        },
-        {
-          "name": "group",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [8, 9]
-        }
+        { "name": "group", "origin": [8, 8, 8], "color": 0, "children": [6, 7] },
+        { "name": "group", "origin": [8, 8, 8], "color": 0, "children": [8, 9] }
       ]
     }
   ]
