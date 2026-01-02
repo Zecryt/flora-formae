@@ -1,6 +1,4 @@
 {
   "parent": "minecraft:block/bushy_bipyramid",
-  "textures": {
-    "cross": "minecraft:block/spruce_sapling"
-  }
+  "textures": { "cross": "minecraft:block/spruce_sapling" }
 }

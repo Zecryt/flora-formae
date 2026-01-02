@@ -1,0 +1,6 @@
+{
+  "parent": "block/bushy",
+  "textures": {
+    "cross": "block/pale_oak_sapling"
+  }
+}

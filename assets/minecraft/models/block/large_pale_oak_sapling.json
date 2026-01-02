@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_large_sapling",
+  "textures": {
+    "texture": "block/large_pale_oak_sapling"
+  }
+}

@@ -25,43 +25,43 @@
       }
     },
     {
-      "from": [9, 15, -4],
-      "to": [9, 31, 20],
+      "from": [8, 7, -4],
+      "to": [8, 31, 20],
       "shade": false,
-      "rotation": { "angle": -22.5, "axis": "z", "origin": [9, 31, 8], "rescale": true },
+      "rotation": { "angle": 22.5, "axis": "z", "origin": [8, 7, 8], "rescale": true },
       "faces": {
-        "east": { "uv": [2, 0, 14, 8], "texture": "#cone" },
-        "west": { "uv": [2, 0, 14, 8], "texture": "#cone" }
+        "east": { "uv": [2, 0, 14, 12], "texture": "#texture" },
+        "west": { "uv": [2, 0, 14, 12], "texture": "#texture" }
       }
     },
     {
-      "from": [7, 15, -4],
-      "to": [7, 31, 20],
+      "from": [8, 7, -4],
+      "to": [8, 31, 20],
       "shade": false,
-      "rotation": { "angle": 22.5, "axis": "z", "origin": [7, 31, 8], "rescale": true },
+      "rotation": { "angle": -22.5, "axis": "z", "origin": [8, 7, 8], "rescale": true },
       "faces": {
-        "east": { "uv": [14, 0, 2, 8], "texture": "#cone" },
-        "west": { "uv": [14, 0, 2, 8], "texture": "#cone" }
+        "east": { "uv": [14, 0, 2, 12], "texture": "#texture" },
+        "west": { "uv": [14, 0, 2, 12], "texture": "#texture" }
       }
     },
     {
-      "from": [-4, 15, 9],
-      "to": [20, 31, 9],
+      "from": [-4, 7, 8],
+      "to": [20, 31, 8],
       "shade": false,
-      "rotation": { "angle": 22.5, "axis": "x", "origin": [8, 31, 9], "rescale": true },
+      "rotation": { "angle": -22.5, "axis": "x", "origin": [8, 7, 8], "rescale": true },
       "faces": {
-        "north": { "uv": [2, 0, 14, 8], "texture": "#cone" },
-        "south": { "uv": [2, 0, 14, 8], "texture": "#cone" }
+        "north": { "uv": [2, 0, 14, 12], "texture": "#texture" },
+        "south": { "uv": [2, 0, 14, 12], "texture": "#texture" }
       }
     },
     {
-      "from": [-4, 15, 7],
-      "to": [20, 31, 7],
+      "from": [-4, 7, 8],
+      "to": [20, 31, 8],
       "shade": false,
-      "rotation": { "angle": -22.5, "axis": "x", "origin": [8, 31, 7], "rescale": true },
+      "rotation": { "angle": 22.5, "axis": "x", "origin": [8, 7, 8], "rescale": true },
       "faces": {
-        "north": { "uv": [14, 0, 2, 8], "texture": "#cone" },
-        "south": { "uv": [14, 0, 2, 8], "texture": "#cone" }
+        "north": { "uv": [14, 0, 2, 12], "texture": "#texture" },
+        "south": { "uv": [14, 0, 2, 12], "texture": "#texture" }
       }
     }
   ],
