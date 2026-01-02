@@ -1,1 +1,6 @@
-{ "parent": "minecraft:block/bushy_tinted_8", "textures": { "cross": "minecraft:block/bush_blue" } }
+{
+  "parent": "minecraft:block/bushy_tinted_8",
+  "textures": {
+    "cross": "minecraft:block/bush_blue"
+  }
+}
