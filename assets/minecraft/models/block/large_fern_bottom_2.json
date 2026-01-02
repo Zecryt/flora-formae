@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/bushy_tinted",
+  "parent": "minecraft:block/bushy_tinted_different",
   "textures": {
-    "cross": "minecraft:block/large_fern_bottom_2"
+    "cross": "minecraft:block/large_fern_bottom_2",
+    "bushy": "minecraft:block/large_fern_bottom_2_tip"
   }
 }
