@@ -1,4 +1,5 @@
 {
+	"format_version": "1.9.0",
 	"credit": "Created by Zecryt using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
@@ -42,40 +43,40 @@
 			}
 		},
 		{
-			"from": [11.69552, -2.53073, 4],
-			"to": [11.69552, 13.46927, 12],
+			"from": [8, -1, 4],
+			"to": [8, 15, 12],
 			"shade": false,
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 0, 8], "rescale": true},
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, -1, 8], "rescale": true},
 			"faces": {
 				"east": {"uv": [4, 0, 12, 16], "texture": "#crop"},
 				"west": {"uv": [16, 0, 0, 16], "texture": "#crop"}
 			}
 		},
 		{
-			"from": [4.30448, -2.53073, 4],
-			"to": [4.30448, 13.46927, 12],
+			"from": [8, -1, 4],
+			"to": [8, 15, 12],
 			"shade": false,
-			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 0, 8], "rescale": true},
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, -1, 8], "rescale": true},
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#crop"},
 				"west": {"uv": [12, 0, 4, 16], "texture": "#crop"}
 			}
 		},
 		{
-			"from": [4, -2.53073, 11.69552],
-			"to": [12, 13.46927, 11.69552],
+			"from": [4, -1, 8],
+			"to": [12, 15, 8],
 			"shade": false,
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 0, 8], "rescale": true},
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, -1, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [16, 0, 0, 16], "texture": "#crop"},
 				"south": {"uv": [4, 0, 12, 16], "texture": "#crop"}
 			}
 		},
 		{
-			"from": [4, -2.53073, 4.30448],
-			"to": [12, 13.46927, 4.30448],
+			"from": [4, -1, 8],
+			"to": [12, 15, 8],
 			"shade": false,
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 0, 8], "rescale": true},
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, -1, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [12, 0, 4, 16], "texture": "#crop"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#crop"}

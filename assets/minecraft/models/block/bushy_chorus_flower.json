@@ -1,10 +1,7 @@
 {
   "credit": "Created by Zecryt using Blockbench",
   "parent": "block/block",
-  "textures": {
-    "bottom": "block/chorus_plant",
-    "particle": "#texture"
-  },
+  "textures": { "bottom": "block/chorus_plant", "particle": "#texture" },
   "elements": [
     {
       "from": [2, 14, 2],
@@ -266,18 +263,8 @@
       "origin": [8, 8, 8],
       "color": 0,
       "children": [
-        {
-          "name": "headX",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [6, 7]
-        },
-        {
-          "name": "headZ",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [8, 9]
-        }
+        { "name": "headX", "origin": [8, 8, 8], "color": 0, "children": [6, 7] },
+        { "name": "headZ", "origin": [8, 8, 8], "color": 0, "children": [8, 9] }
       ]
     },
     {
@@ -285,18 +272,8 @@
       "origin": [8, 8, 8],
       "color": 0,
       "children": [
-        {
-          "name": "headX",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [10, 11]
-        },
-        {
-          "name": "headZ",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [12, 13]
-        }
+        { "name": "headX", "origin": [8, 8, 8], "color": 0, "children": [10, 11] },
+        { "name": "headZ", "origin": [8, 8, 8], "color": 0, "children": [12, 13] }
       ]
     },
     {
@@ -304,18 +281,8 @@
       "origin": [8, 8, 8],
       "color": 0,
       "children": [
-        {
-          "name": "headX",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [14, 15]
-        },
-        {
-          "name": "headZ",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [16, 17]
-        }
+        { "name": "headX", "origin": [8, 8, 8], "color": 0, "children": [14, 15] },
+        { "name": "headZ", "origin": [8, 8, 8], "color": 0, "children": [16, 17] }
       ]
     },
     {
@@ -323,18 +290,8 @@
       "origin": [8, 8, 8],
       "color": 0,
       "children": [
-        {
-          "name": "headX",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [18, 19]
-        },
-        {
-          "name": "headZ",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [20, 21]
-        }
+        { "name": "headX", "origin": [8, 8, 8], "color": 0, "children": [18, 19] },
+        { "name": "headZ", "origin": [8, 8, 8], "color": 0, "children": [20, 21] }
       ]
     },
     {
@@ -342,18 +299,8 @@
       "origin": [8, 8, 8],
       "color": 0,
       "children": [
-        {
-          "name": "headX",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [22, 23]
-        },
-        {
-          "name": "headZ",
-          "origin": [8, 8, 8],
-          "color": 0,
-          "children": [24, 25]
-        }
+        { "name": "headX", "origin": [8, 8, 8], "color": 0, "children": [22, 23] },
+        { "name": "headZ", "origin": [8, 8, 8], "color": 0, "children": [24, 25] }
       ]
     }
   ]
