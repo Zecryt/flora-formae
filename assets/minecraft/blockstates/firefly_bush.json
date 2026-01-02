@@ -1,0 +1,3204 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/firefly_bush_0"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_1"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_2"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_3"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_4"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_5"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_6"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_7"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_8"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_9"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_10"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_11"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_12"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_13"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_14"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_15"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_16"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_17"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_18"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_19"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_20"
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_0",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_7",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_8",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_9",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_10",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_11",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_12",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_13",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_14",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_15",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_16",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_17",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_18",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_19",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_20",
+        "y": 90
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_0",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_7",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_8",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_9",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_10",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_11",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_12",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_13",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_14",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_15",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_16",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_17",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_18",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_19",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_20",
+        "y": 180
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_0",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_7",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_8",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_9",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_10",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_11",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_12",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_13",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_14",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_15",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_16",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_17",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_18",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_19",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_0_20",
+        "y": 270
+      },
+
+
+      {
+        "model": "minecraft:block/firefly_bush_1"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_1"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_2"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_3"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_4"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_5"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_6"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_7"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_8"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_9"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_10"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_11"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_12"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_13"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_14"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_15"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_16"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_17"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_18"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_19"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_20"
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_7",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_8",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_9",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_10",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_11",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_12",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_13",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_14",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_15",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_16",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_17",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_18",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_19",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_20",
+        "y": 90
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_0",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_7",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_8",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_9",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_10",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_11",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_12",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_13",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_14",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_15",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_16",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_17",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_18",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_19",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_20",
+        "y": 180
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_7",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_8",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_9",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_10",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_11",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_12",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_13",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_14",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_15",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_16",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_17",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_18",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_19",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_20",
+        "y": 270
+      },
+
+
+      {
+        "model": "minecraft:block/firefly_bush_2"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_1"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_2"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_3"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_4"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_5"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_6"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_7"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_8"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_9"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_10"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_11"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_12"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_13"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_14"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_15"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_16"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_17"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_18"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_19"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_20"
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_7",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_8",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_9",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_10",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_11",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_12",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_13",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_14",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_15",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_16",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_17",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_18",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_19",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_20",
+        "y": 90
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_7",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_8",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_9",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_10",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_11",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_12",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_13",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_14",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_15",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_16",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_17",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_18",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_19",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_20",
+        "y": 180
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_7",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_8",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_9",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_10",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_11",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_12",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_13",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_14",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_15",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_16",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_17",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_18",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_19",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2_20",
+        "y": 270
+      },
+
+
+      {
+        "model": "minecraft:block/firefly_bush_3"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_1"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_2"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_3"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_4"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_5"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_6"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_7"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_8"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_9"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_10"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_11"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_12"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_13"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_14"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_15"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_16"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_17"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_18"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_19"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_20"
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_7",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_8",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_9",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_10",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_11",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_12",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_13",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_14",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_15",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_16",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_17",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_18",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_19",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_20",
+        "y": 90
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_7",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_8",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_9",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_10",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_11",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_12",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_13",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_14",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_15",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_16",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_17",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_18",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_19",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1_20",
+        "y": 180
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_7",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_8",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_9",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_10",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_11",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_12",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_13",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_14",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_15",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_16",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_17",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_18",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_19",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3_20",
+        "y": 270
+      },
+
+
+      {
+        "model": "minecraft:block/firefly_bush_4"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_1"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_2"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_3"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_4"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_5"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_6"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_7"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_8"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_9"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_10"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_11"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_12"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_13"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_14"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_15"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_16"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_17"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_18"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_19"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_20"
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_7",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_8",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_9",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_10",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_11",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_12",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_13",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_14",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_15",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_16",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_17",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_18",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_19",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_20",
+        "y": 90
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_7",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_8",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_9",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_10",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_11",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_12",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_13",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_14",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_15",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_16",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_17",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_18",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_19",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_20",
+        "y": 180
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_7",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_8",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_9",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_10",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_11",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_12",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_13",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_14",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_15",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_16",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_17",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_18",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_19",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4_20",
+        "y": 270
+      },
+
+
+      {
+        "model": "minecraft:block/firefly_bush_5"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_1"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_2"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_3"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_4"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_5"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_6"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_7"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_8"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_9"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_10"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_11"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_12"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_13"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_14"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_15"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_16"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_17"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_18"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_19"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_20"
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_7",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_8",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_9",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_10",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_11",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_12",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_13",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_14",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_15",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_16",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_17",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_18",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_19",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_20",
+        "y": 90
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_7",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_8",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_9",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_10",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_11",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_12",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_13",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_14",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_15",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_16",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_17",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_18",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_19",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_20",
+        "y": 180
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_7",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_8",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_9",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_10",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_11",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_12",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_13",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_14",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_15",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_16",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_17",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_18",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_19",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5_20",
+        "y": 270
+      },
+
+
+      {
+        "model": "minecraft:block/firefly_bush_6"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_1"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_2"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_3"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_4"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_5"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_6"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_7"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_8"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_9"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_10"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_11"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_12"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_13"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_14"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_15"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_16"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_17"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_18"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_19"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_20"
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_7",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_8",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_9",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_10",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_11",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_12",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_13",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_14",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_15",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_16",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_17",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_18",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_19",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_20",
+        "y": 90
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_7",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_8",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_9",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_10",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_11",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_12",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_13",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_14",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_15",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_16",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_17",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_18",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_19",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_20",
+        "y": 180
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_7",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_8",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_9",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_10",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_11",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_12",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_13",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_14",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_15",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_16",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_17",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_18",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_19",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6_20",
+        "y": 270
+      },
+
+
+      {
+        "model": "minecraft:block/firefly_bush_7"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_1"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_2"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_3"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_4"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_5"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_6"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_7"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_8"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_9"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_10"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_11"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_12"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_13"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_14"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_15"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_16"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_17"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_18"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_19"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_20"
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_7",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_7",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_8",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_9",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_10",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_11",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_12",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_13",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_14",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_15",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_16",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_17",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_18",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_19",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_20",
+        "y": 90
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_7",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_7",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_8",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_9",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_10",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_11",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_12",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_13",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_14",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_15",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_16",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_17",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_18",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_19",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_20",
+        "y": 180
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_7",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_7",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_8",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_9",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_10",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_11",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_12",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_13",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_14",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_15",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_16",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_17",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_18",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_19",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7_20",
+        "y": 270
+      },
+
+
+      {
+        "model": "minecraft:block/firefly_bush_8"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_1"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_2"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_3"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_4"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_5"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_6"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_7"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_8"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_9"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_10"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_11"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_12"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_13"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_14"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_15"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_16"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_17"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_18"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_19"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_20"
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_8",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_7",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_8",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_9",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_10",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_11",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_12",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_13",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_14",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_15",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_16",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_17",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_18",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_19",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_20",
+        "y": 90
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_8",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_7",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_8",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_9",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_10",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_11",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_12",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_13",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_14",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_15",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_16",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_17",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_18",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_19",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_20",
+        "y": 180
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_8",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_7",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_8",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_9",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_10",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_11",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_12",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_13",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_14",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_15",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_16",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_17",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_18",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_19",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8_20",
+        "y": 270
+      },
+
+
+      {
+        "model": "minecraft:block/firefly_bush_9"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_1"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_2"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_3"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_4"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_5"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_6"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_7"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_8"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_9"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_10"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_11"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_12"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_13"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_14"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_15"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_16"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_17"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_18"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_19"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_20"
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_9",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_7",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_8",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_9",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_10",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_11",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_12",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_13",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_14",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_15",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_16",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_17",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_18",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_19",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_20",
+        "y": 90
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_9",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_7",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_8",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_9",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_10",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_11",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_12",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_13",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_14",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_15",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_16",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_17",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_18",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_19",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_20",
+        "y": 180
+      },
+
+      {
+        "model": "minecraft:block/firefly_bush_9",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_7",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_8",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_9",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_10",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_11",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_12",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_13",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_14",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_15",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_16",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_17",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_18",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_19",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9_20",
+        "y": 270
+      }
+    ]
+  }
+}
