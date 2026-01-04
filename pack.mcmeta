@@ -1,7 +1,29 @@
 {
   "pack": {
-    "pack_format": 46,
-    "supported_formats": {"min_inclusive": 15, "max_inclusive": 46},
-    "description": [{"text": "by Zecryt§r\n§a§lThanks for downloading!"}]
+    "pack_format": 34,
+    "min_format": 34,
+    "max_format": 75,
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 75
+    },
+    "description": [
+      {
+        "text": "by Zecryt§r\n§a§lThanks for downloading!"
+      }
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 34,
+          "max_inclusive": 74
+        },
+        "min_format": 34,
+        "max_format": 74,
+        "directory": "overlay_34_74"
+      }
+    ]
   }
 }
