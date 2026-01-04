@@ -224,8 +224,80 @@
     {
       "apply": [
         {
-          "model": "minecraft:block/chorus_leaves_horizontal",
+          "model": "minecraft:block/chorus_leaves_horizontal_down",
           "weight": 1
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside",
+          "weight": 8
+        }
+      ],
+      "when": {
+        "north": "false",
+        "down": "false"
+      }
+    },
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/chorus_leaves_horizontal_down",
+          "y": 90,
+          "weight": 2
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside",
+          "y": 90,
+          "weight": 16
+        }
+      ],
+      "when": {
+        "east": "false",
+        "down": "false"
+      }
+    },
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/chorus_leaves_horizontal_down",
+          "y": 180,
+          "weight": 3
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside",
+          "y": 180,
+          "weight": 24
+        }
+      ],
+      "when": {
+        "south": "false",
+        "down": "false"
+      }
+    },
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/chorus_leaves_horizontal_down",
+          "y": 270,
+          "weight": 4
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside",
+          "y": 270,
+          "weight": 32
+        }
+      ],
+      "when": {
+        "west": "false",
+        "down": "false"
+      }
+    },
+
+
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/chorus_leaves_horizontal_up",
+          "weight": 2
         },
         {
           "model": "minecraft:block/chorus_plant_noside",
@@ -233,141 +305,62 @@
         }
       ],
       "when": {
-        "north": false,
-        "down": false
+        "north": "false",
+        "up": "false"
       }
     },
     {
       "apply": [
         {
-          "model": "minecraft:block/chorus_leaves_horizontal",
-          "y": 90,
-          "weight": 2
-        },
-        {
-          "model": "minecraft:block/chorus_plant_noside",
-          "y": 90,
-          "weight": 32
-        }
-
-      ],
-      "when": {
-        "east": false,
-        "down": false
-      }
-    },
-    {
-      "apply": [
-        {
-          "model": "minecraft:block/chorus_leaves_horizontal",
-          "y": 180,
-          "weight": 3
-        },
-        {
-          "model": "minecraft:block/chorus_plant_noside",
-          "y": 180,
-          "weight": 48
-        }
-
-      ],
-      "when": {
-        "south": false,
-        "down": false
-      }
-    },
-    {
-      "apply": [
-        {
-          "model": "minecraft:block/chorus_leaves_horizontal",
-          "y": 270,
-          "weight": 4
-        },
-        {
-          "model": "minecraft:block/chorus_plant_noside",
-          "y": 270,
-          "weight": 64
-        }
-
-      ],
-      "when": {
-        "west": false,
-        "down": false
-      }
-    },
-
-
-    {
-      "apply": [
-        {
-          "model": "minecraft:block/chorus_leaves_horizontal",
-          "z": 180,
-          "weight": 2
-        },
-        {
-          "model": "minecraft:block/chorus_plant_noside",
-          "weight": 32
-        }
-      ],
-      "when": {
-        "north": false,
-        "up": false
-      }
-    },
-    {
-      "apply": [
-        {
-          "model": "minecraft:block/chorus_leaves_horizontal",
-          "z": 180,
+          "model": "minecraft:block/chorus_leaves_horizontal_up",
           "y": 90,
           "weight": 4
         },
         {
           "model": "minecraft:block/chorus_plant_noside",
           "y": 90,
-          "weight": 64
+          "weight": 32
         }
       ],
       "when": {
-        "west": false,
-        "up": false
+        "east": "false",
+        "up": "false"
       }
     },
     {
       "apply": [
         {
-          "model": "minecraft:block/chorus_leaves_horizontal",
-          "z": 180,
+          "model": "minecraft:block/chorus_leaves_horizontal_up",
           "y": 180,
           "weight": 6
         },
         {
           "model": "minecraft:block/chorus_plant_noside",
           "y": 180,
-          "weight": 96
+          "weight": 48
         }
       ],
       "when": {
-        "south": false,
-        "up": false
+        "south": "false",
+        "up": "false"
       }
     },
     {
       "apply": [
         {
-          "model": "minecraft:block/chorus_leaves_horizontal",
-          "z": 180,
+          "model": "minecraft:block/chorus_leaves_horizontal_up",
           "y": 270,
           "weight": 8
         },
         {
           "model": "minecraft:block/chorus_plant_noside",
           "y": 270,
-          "weight": 128
+          "weight": 64
         }
       ],
       "when": {
-        "east": false,
-        "up": false
+        "west": "false",
+        "up": "false"
       }
     },
 
@@ -376,74 +369,70 @@
       "apply": [
         {
           "model": "minecraft:block/chorus_leaves_vertical",
-          "z": 90,
           "weight": 1
         },
         {
           "model": "minecraft:block/chorus_plant_noside",
-          "weight": 16
+          "weight": 8
         }
       ],
       "when": {
-        "north": false,
-        "west": false
+        "west": "false",
+        "north": "false"
       }
     },
     {
       "apply": [
         {
           "model": "minecraft:block/chorus_leaves_vertical",
-          "z": 90,
-          "x": 90,
+          "y": 90,
           "weight": 3
         },
         {
           "model": "minecraft:block/chorus_plant_noside",
           "y": 90,
-          "weight": 48
+          "weight": 24
         }
       ],
       "when": {
-        "west": false,
-        "south": false
+        "north": "false",
+        "east": "false"
       }
     },
     {
       "apply": [
         {
           "model": "minecraft:block/chorus_leaves_vertical",
-          "z": 90,
-          "x": 180,
+          "y": 180,
           "weight": 5
         },
         {
           "model": "minecraft:block/chorus_plant_noside",
           "y": 180,
-          "weight": 80
+          "weight": 40
         }
       ],
       "when": {
-        "south": false,
-        "east": false
+        "east": "false",
+        "south": "false"
       }
     },
     {
       "apply": [
         {
           "model": "minecraft:block/chorus_leaves_vertical",
-          "z": 90,
-          "x": 270,
+          "y": 270,
           "weight": 7
         },
         {
           "model": "minecraft:block/chorus_plant_noside",
           "y": 270,
-          "weight": 112
+          "weight": 56
         }
       ],
       "when": {
-        "east": false,
-        "north": false
+        "south": "false",
+        "west": "false"
       }
     }
   ]

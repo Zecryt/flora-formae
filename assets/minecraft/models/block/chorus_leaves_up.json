@@ -1,0 +1,20 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Created by Zecryt using Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/chorus_plant"
+	},
+	"elements": [
+		{
+			"from": [0, 12, -4],
+			"to": [16, 12, 4],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "x", "origin": [0, 12, 4]},
+			"faces": {
+				"up": {"uv": [0, 16, 16, 8], "texture": "#leaves"},
+				"down": {"uv": [0, 8, 16, 0], "texture": "#leaves"}
+			}
+		}
+	]
+}

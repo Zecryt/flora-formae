@@ -1,0 +1,6 @@
+{
+  "parent": "block/chorus_leaves_up",
+  "textures": {
+    "leaves": "block/chorus_leaves_horizontal"
+  }
+}

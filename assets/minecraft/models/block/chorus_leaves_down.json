@@ -9,10 +9,11 @@
 		{
 			"from": [0, 4, -4],
 			"to": [16, 4, 4],
+			"shade": false,
 			"rotation": {"angle": -45, "axis": "x", "origin": [0, 4, 4]},
 			"faces": {
-				"up": {"uv": [0, 0, 16, 8], "texture": "#leaves"},
-				"down": {"uv": [0, 8, 16, 16], "texture": "#leaves"}
+				"up": {"uv": [16, 0, 0, 8], "texture": "#leaves"},
+				"down": {"uv": [16, 8, 0, 16], "texture": "#leaves"}
 			}
 		}
 	]
