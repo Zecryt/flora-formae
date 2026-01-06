@@ -1,19 +1,73 @@
 {
   "variants": {
     "": [
-        {
+      {
         "model": "minecraft:block/potted_bamboo",
+        "weight": 32
+      },
+      {
+        "model": "minecraft:block/potted_bamboo",
+        "y": 90,
+        "weight": 32
+      },
+      {
+        "model": "minecraft:block/potted_bamboo",
+        "y": 180,
+        "weight": 32
+      },
+      {
+        "model": "minecraft:block/potted_bamboo",
+        "y": 270,
         "weight": 32
       },
       {
         "model": "minecraft:block/potted_bamboo_1"
       },
       {
+        "model": "minecraft:block/potted_bamboo_1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/potted_bamboo_1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/potted_bamboo_1",
+        "y": 270
+      },
+      {
         "model": "minecraft:block/potted_bamboo_2",
         "weight": 16
       },
       {
+        "model": "minecraft:block/potted_bamboo_2",
+        "y": 90,
+        "weight": 16
+      },
+      {
+        "model": "minecraft:block/potted_bamboo_2",
+        "y": 180,
+        "weight": 16
+      },
+      {
+        "model": "minecraft:block/potted_bamboo_2",
+        "y": 270,
+        "weight": 16
+      },
+      {
         "model": "minecraft:block/potted_bamboo_3"
+      },
+      {
+        "model": "minecraft:block/potted_bamboo_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/potted_bamboo_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/potted_bamboo_3",
+        "y": 270
       }
     ]
   }
