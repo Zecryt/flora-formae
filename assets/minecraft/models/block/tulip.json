@@ -88,18 +88,6 @@
 					"children": [4, 5]
 				}
 			]
-		},
-		{
-			"name": "X",
-			"origin": [8, 0, 0],
-			"color": 0,
-			"children": [6, 7]
-		},
-		{
-			"name": "Z",
-			"origin": [8, 0, 0],
-			"color": 0,
-			"children": [8, 9]
 		}
 	]
 }

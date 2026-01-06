@@ -11,7 +11,7 @@
 			"to": [4, 15, 16],
 			"shade": false,
 			"faces": {
-				"east": {"uv": [16, 0, 0, 16], "texture": "#crop"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#crop"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#crop"}
 			}
 		},
@@ -21,7 +21,7 @@
 			"shade": false,
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#crop"},
-				"west": {"uv": [16, 0, 0, 16], "texture": "#crop"}
+				"west": {"uv": [0, 0, 16, 16], "texture": "#crop"}
 			}
 		},
 		{
@@ -30,7 +30,7 @@
 			"shade": false,
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#crop"},
-				"south": {"uv": [16, 0, 0, 16], "texture": "#crop"}
+				"south": {"uv": [0, 0, 16, 16], "texture": "#crop"}
 			}
 		},
 		{
@@ -38,7 +38,7 @@
 			"to": [16, 15, 12],
 			"shade": false,
 			"faces": {
-				"north": {"uv": [16, 0, 0, 16], "texture": "#crop"},
+				"north": {"uv": [0, 0, 16, 16], "texture": "#crop"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#crop"}
 			}
 		},
@@ -49,7 +49,7 @@
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, -1, 8], "rescale": true},
 			"faces": {
 				"east": {"uv": [4, 0, 12, 16], "texture": "#crop"},
-				"west": {"uv": [16, 0, 0, 16], "texture": "#crop"}
+				"west": {"uv": [4, 0, 12, 16], "texture": "#crop"}
 			}
 		},
 		{
@@ -58,8 +58,8 @@
 			"shade": false,
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, -1, 8], "rescale": true},
 			"faces": {
-				"east": {"uv": [0, 0, 16, 16], "texture": "#crop"},
-				"west": {"uv": [12, 0, 4, 16], "texture": "#crop"}
+				"east": {"uv": [4, 0, 12, 16], "texture": "#crop"},
+				"west": {"uv": [4, 0, 12, 16], "texture": "#crop"}
 			}
 		},
 		{
@@ -68,7 +68,7 @@
 			"shade": false,
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, -1, 8], "rescale": true},
 			"faces": {
-				"north": {"uv": [16, 0, 0, 16], "texture": "#crop"},
+				"north": {"uv": [4, 0, 12, 16], "texture": "#crop"},
 				"south": {"uv": [4, 0, 12, 16], "texture": "#crop"}
 			}
 		},
@@ -78,8 +78,8 @@
 			"shade": false,
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, -1, 8], "rescale": true},
 			"faces": {
-				"north": {"uv": [12, 0, 4, 16], "texture": "#crop"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#crop"}
+				"north": {"uv": [4, 0, 12, 16], "texture": "#crop"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#crop"}
 			}
 		}
 	],

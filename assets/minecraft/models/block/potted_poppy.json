@@ -84,6 +84,7 @@
     {
       "from": [5.75, 9.25, 5],
       "to": [8, 9.25, 11],
+      "shade": false,
       "rotation": { "angle": -22.5, "axis": "z", "origin": [8, 9.25, 5] },
       "faces": {
         "up": { "uv": [0, 5, 8, 8], "rotation": 270, "texture": "#head" },
@@ -93,6 +94,7 @@
     {
       "from": [8, 9.25, 5],
       "to": [10.25, 9.25, 11],
+      "shade": false,
       "rotation": { "angle": 22.5, "axis": "z", "origin": [8, 9.25, 5] },
       "faces": {
         "up": { "uv": [0, 8, 8, 5], "rotation": 270, "texture": "#head" },
@@ -102,6 +104,7 @@
     {
       "from": [5, 9.25, 5.75],
       "to": [11, 9.25, 8],
+      "shade": false,
       "rotation": { "angle": 22.5, "axis": "x", "origin": [11, 9.25, 8] },
       "faces": {
         "up": { "uv": [0, 5, 8, 8], "texture": "#head" },
@@ -111,6 +114,7 @@
     {
       "from": [5, 9.25, 8],
       "to": [11, 9.25, 10.25],
+      "shade": false,
       "rotation": { "angle": -22.5, "axis": "x", "origin": [11, 9.25, 8] },
       "faces": {
         "up": { "uv": [0, 8, 8, 5], "texture": "#head" },
@@ -120,6 +124,7 @@
     {
       "from": [8, 9.25, 6.5],
       "to": [8, 11.5, 9.5],
+      "shade": false,
       "rotation": { "angle": 45, "axis": "z", "origin": [8, 9.25, 6.5] },
       "faces": {
         "east": { "uv": [2, 0, 6, 3], "texture": "#head" },
@@ -129,6 +134,7 @@
     {
       "from": [8, 9.25, 6.5],
       "to": [8, 11.5, 9.5],
+      "shade": false,
       "rotation": { "angle": -45, "axis": "z", "origin": [8, 9.25, 6.5] },
       "faces": {
         "east": { "uv": [6, 0, 2, 3], "texture": "#head" },
@@ -138,6 +144,7 @@
     {
       "from": [6.5, 9.25, 8],
       "to": [9.5, 11.5, 8],
+      "shade": false,
       "rotation": { "angle": -45, "axis": "x", "origin": [9.5, 9.25, 8] },
       "faces": {
         "north": { "uv": [2, 0, 6, 3], "texture": "#head" },
@@ -147,6 +154,7 @@
     {
       "from": [6.5, 9.25, 8],
       "to": [9.5, 11.5, 8],
+      "shade": false,
       "rotation": { "angle": 45, "axis": "x", "origin": [9.5, 9.25, 8] },
       "faces": {
         "north": { "uv": [6, 0, 2, 3], "texture": "#head" },
