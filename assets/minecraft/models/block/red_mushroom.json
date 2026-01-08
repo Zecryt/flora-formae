@@ -35,8 +35,7 @@
         "east": { "uv": [8, 13, 12, 15], "texture": "#fungus" },
         "south": { "uv": [4, 13, 8, 15], "texture": "#fungus" },
         "west": { "uv": [0, 13, 4, 15], "texture": "#fungus" },
-        "up": { "uv": [12, 8, 16, 12], "texture": "#fungus" },
-        "down": { "uv": [0, 0, 4, 4], "texture": "#missing" }
+        "up": { "uv": [12, 8, 16, 12], "texture": "#fungus" }
       }
     }
   ]

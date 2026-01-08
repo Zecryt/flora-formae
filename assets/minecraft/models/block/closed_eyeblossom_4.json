@@ -495,8 +495,7 @@
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [2, 5, 2]},
 			"faces": {
 				"east": {"uv": [5, 4, 11, 10], "texture": "#head"},
-				"west": {"uv": [5, 4, 11, 10], "texture": "#head"},
-				"down": {"uv": [0, 0, 0, 4], "texture": "#missing"}
+				"west": {"uv": [5, 4, 11, 10], "texture": "#head"}
 			}
 		},
 		{
