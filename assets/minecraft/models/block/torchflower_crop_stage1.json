@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/bushy_crop_alt",
+  "parent": "minecraft:block/bushy_crop_bipyramid",
   "textures": {
     "cross": "minecraft:block/torchflower_crop_stage1"
   }
