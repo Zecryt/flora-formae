@@ -471,7 +471,7 @@
       },
 
       {
-        "model": "minecraft:block/firefly_bush_0",
+        "model": "minecraft:block/firefly_bush_1",
         "y": 180
       },
       {
@@ -1300,49 +1300,49 @@
         "model": "minecraft:block/firefly_bush_4_5"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_6"
+        "model": "minecraft:block/firefly_bush_4_6"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_7"
+        "model": "minecraft:block/firefly_bush_4_7"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_8"
+        "model": "minecraft:block/firefly_bush_4_8"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_9"
+        "model": "minecraft:block/firefly_bush_4_9"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_10"
+        "model": "minecraft:block/firefly_bush_4_10"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_11"
+        "model": "minecraft:block/firefly_bush_4_11"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_12"
+        "model": "minecraft:block/firefly_bush_4_12"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_13"
+        "model": "minecraft:block/firefly_bush_4_13"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_14"
+        "model": "minecraft:block/firefly_bush_4_14"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_15"
+        "model": "minecraft:block/firefly_bush_4_15"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_16"
+        "model": "minecraft:block/firefly_bush_4_16"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_17"
+        "model": "minecraft:block/firefly_bush_4_17"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_18"
+        "model": "minecraft:block/firefly_bush_4_18"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_19"
+        "model": "minecraft:block/firefly_bush_4_19"
       },
       {
-        "model": "minecraft:block/firefly_bush_5_20"
+        "model": "minecraft:block/firefly_bush_4_20"
       },
 
       {
