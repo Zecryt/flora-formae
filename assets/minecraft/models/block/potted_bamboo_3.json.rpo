@@ -1,0 +1,4 @@
+{
+  condition: "miscellaneous.bamboo.pottedVariants",
+  fallback: "assets/respackopts/models/bamboo/potted_bamboo.json"
+}

@@ -1,0 +1,4 @@
+{
+  condition: "grass.fireflyBush.enableModel & grass.fireflyBush.offset",
+  fallback: "assets/respackopts/blockstates/firefly_bush/firefly_bush.json"
+}

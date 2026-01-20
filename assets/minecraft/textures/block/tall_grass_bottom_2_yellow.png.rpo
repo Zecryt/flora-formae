@@ -1,0 +1,4 @@
+{
+  condition: "grass.tallGrass.variated & grass.tallGrass.colorful",
+  fallback: "assets/minecraft/textures/block/tall_grass_bottom_yellow.png"
+}

@@ -1,0 +1,3 @@
+{
+  condition: "shortFlowers.dandelion.variants + 0 == 3"
+}

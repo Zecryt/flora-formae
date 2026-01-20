@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.whiteTulip.enableModel & shortFlowers.whiteTulip.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/white_tulip/white_tulip_1.json",
+    "assets/respackopts/blockstates/white_tulip/white_tulip_2.json",
+    "assets/respackopts/blockstates/white_tulip/white_tulip_3.json"
+  ]
+}

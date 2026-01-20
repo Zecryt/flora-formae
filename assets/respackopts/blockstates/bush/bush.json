@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/bush",
+        "weight": 8
+      },
+      {
+        "model": "minecraft:block/bush_blue"
+      },
+      {
+        "model": "minecraft:block/bush_yellow"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/firefly_bush_0"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_1"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_2"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_3"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_4"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_5"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_6"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_7"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_8"
+      },
+      {
+        "model": "minecraft:block/firefly_bush_9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.azureBluet.enableModel & shortFlowers.azureBluet.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/azure_bluet/azure_bluet_1.json",
+    "assets/respackopts/blockstates/azure_bluet/azure_bluet_2.json",
+    "assets/respackopts/blockstates/azure_bluet/azure_bluet_3.json"
+  ]
+}

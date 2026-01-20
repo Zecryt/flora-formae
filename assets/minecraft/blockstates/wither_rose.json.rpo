@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.witherRose.enableModel & shortFlowers.witherRose.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/wither_rose/wither_rose_1.json",
+    "assets/respackopts/blockstates/wither_rose/wither_rose_2.json",
+    "assets/respackopts/blockstates/wither_rose/wither_rose_3.json"
+  ]
+}

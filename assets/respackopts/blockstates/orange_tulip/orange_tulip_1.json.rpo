@@ -1,0 +1,3 @@
+{
+  condition: "!shortFlowers.orangeTulip.enableModel | shortFlowers.orangeTulip.variants + 0 == 1"
+}

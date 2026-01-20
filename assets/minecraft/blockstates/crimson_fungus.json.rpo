@@ -1,0 +1,7 @@
+{
+  condition: "fungi.crimsonFungus.enableModel & fungi.crimsonFungus.variants + 0 == 3",
+  fallbacks: [
+    "assets/respackopts/blockstates/crimson_fungus/crimson_fungus_2.json",
+    "assets/respackopts/blockstates/crimson_fungus/crimson_fungus_1.json"
+  ]
+}

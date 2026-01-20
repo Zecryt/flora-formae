@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.blueOrchid.enableModel & shortFlowers.blueOrchid.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/blue_orchid/blue_orchid_1.json",
+    "assets/respackopts/blockstates/blue_orchid/blue_orchid_2.json",
+    "assets/respackopts/blockstates/blue_orchid/blue_orchid_3.json"
+  ]
+}

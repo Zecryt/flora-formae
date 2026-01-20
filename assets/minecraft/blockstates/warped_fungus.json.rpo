@@ -1,0 +1,7 @@
+{
+  condition: "fungi.warpedFungus.enableModel & fungi.warpedFungus.variants + 0 == 3",
+  fallbacks: [
+    "assets/respackopts/blockstates/warped_fungus/warped_fungus_2.json",
+    "assets/respackopts/blockstates/warped_fungus/warped_fungus_1.json"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  condition: "shortFlowers.redTulip.variants + 0 == 3"
+}

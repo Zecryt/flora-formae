@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/open_eyeblossom",
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom_2"
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom_3"
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/open_eyeblossom_3",
+        "y": 270
+      }
+    ]
+  }
+}

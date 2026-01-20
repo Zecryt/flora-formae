@@ -1,0 +1,3 @@
+{
+  condition: "!shortFlowers.oxeyeDaisy.enableModel | shortFlowers.oxeyeDaisy.variants + 0 == 1"
+}

@@ -1,0 +1,3 @@
+{
+  condition: "shortFlowers.pinkTulip.variants + 0 == 2"
+}

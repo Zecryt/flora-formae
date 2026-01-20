@@ -1,0 +1,3 @@
+{
+  condition: "!shortFlowers.closedEyeblossom.enableModel | shortFlowers.closedEyeblossom.variants + 0 == 1"
+}

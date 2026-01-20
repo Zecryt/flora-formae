@@ -1,0 +1,4 @@
+{
+  condition: "grass.largeFern.colorful",
+  fallback: "assets/respackopts/textures/large_fern_bottom.png"
+}

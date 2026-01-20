@@ -1,0 +1,3 @@
+{
+  condition: "shortFlowers.blueOrchid.variants + 0 == 2"
+}

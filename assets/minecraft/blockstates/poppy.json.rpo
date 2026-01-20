@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.poppy.enableModel & shortFlowers.poppy.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/poppy/poppy_1.json",
+    "assets/respackopts/blockstates/poppy/poppy_2.json",
+    "assets/respackopts/blockstates/poppy/poppy_3.json"
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  condition: "grass.bush.enableModel & grass.bush.offset",
+  fallback: "assets/respackopts/blockstates/bush/bush.json"
+}

@@ -1,0 +1,3 @@
+{
+  condition: "shortFlowers.oxeyeDaisy.variants + 0 == 2"
+}

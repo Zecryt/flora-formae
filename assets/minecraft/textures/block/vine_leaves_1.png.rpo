@@ -1,0 +1,4 @@
+{
+  condition: "vines.vines.leaves",
+  fallback: "assets/respackopts/textures/blank.png"
+}

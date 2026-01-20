@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/stem_attached",
+  "parent": "minecraft:block/bushy_stem_attached",
   "textures": {
     "stem_large": "minecraft:block/melon_stem_large",
     "stem_cross": "minecraft:block/melon_stem_cross",

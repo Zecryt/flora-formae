@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/stem_growth5",
+  "parent": "minecraft:block/bushy_stem_growth5",
   "textures": {
     "stem": "minecraft:block/melon_stem",
     "leaves": "minecraft:block/melon_leaves_stage_5"

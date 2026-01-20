@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.lilyOfTheValley.enableModel & shortFlowers.lilyOfTheValley.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/lily_of_the_valley/lily_of_the_valley_1.json",
+    "assets/respackopts/blockstates/lily_of_the_valley/lily_of_the_valley_2.json",
+    "assets/respackopts/blockstates/lily_of_the_valley/lily_of_the_valley_3.json"
+  ]
+}

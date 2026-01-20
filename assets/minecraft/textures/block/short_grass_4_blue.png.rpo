@@ -1,0 +1,4 @@
+{
+  condition: "grass.shortGrass.variated & grass.shortGrass.colorful",
+  fallback: "assets/minecraft/textures/block/short_grass_blue.png"
+}

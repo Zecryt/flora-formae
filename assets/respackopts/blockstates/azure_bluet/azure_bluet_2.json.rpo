@@ -1,0 +1,3 @@
+{
+  condition: "shortFlowers.azureBluet.variants + 0 == 2"
+}

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/stem_growth6",
+  "parent": "minecraft:block/bushy_stem_growth6",
   "textures": {
     "stem": "minecraft:block/pumpkin_stem",
     "leaves": "minecraft:block/pumpkin_leaves_stage_6"
