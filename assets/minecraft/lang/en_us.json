@@ -247,5 +247,7 @@
   "rpo.floraFormae.miscellaneous.saplings.visualGrowth": "Visual Growth",
 
   "rpo.floraFormae.miscellaneous.sugarCane": "Sugar Cane",
-  "rpo.floraFormae.miscellaneous.sugarCane.enableModel": "Enable Model"
+  "rpo.floraFormae.miscellaneous.sugarCane.enableModel": "Enable Model",
+
+  "rpo.floraFormae.preset.single": "Single"
 }
