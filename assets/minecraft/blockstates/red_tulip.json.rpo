@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.redTulip.enableModel & shortFlowers.redTulip.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/red_tulip/red_tulip_1.json",
+    "assets/respackopts/blockstates/red_tulip/red_tulip_2.json",
+    "assets/respackopts/blockstates/red_tulip/red_tulip_3.json"
+  ]
+}

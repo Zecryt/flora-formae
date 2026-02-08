@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.orangeTulip.enableModel & shortFlowers.orangeTulip.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/orange_tulip/orange_tulip_1.json",
+    "assets/respackopts/blockstates/orange_tulip/orange_tulip_2.json",
+    "assets/respackopts/blockstates/orange_tulip/orange_tulip_3.json"
+  ]
+}

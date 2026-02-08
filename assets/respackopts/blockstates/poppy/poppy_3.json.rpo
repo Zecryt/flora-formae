@@ -1,0 +1,3 @@
+{
+  condition: "shortFlowers.poppy.variants + 0 == 3"
+}

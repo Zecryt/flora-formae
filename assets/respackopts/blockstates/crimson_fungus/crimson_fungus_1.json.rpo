@@ -1,0 +1,3 @@
+{
+  condition: "fungi.crimsonFungus.enableModel & fungi.crimsonFungus.variants + 0 == 1"
+}

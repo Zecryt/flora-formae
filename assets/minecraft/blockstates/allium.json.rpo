@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.allium.enableModel & shortFlowers.allium.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/allium/allium_1.json",
+    "assets/respackopts/blockstates/allium/allium_2.json",
+    "assets/respackopts/blockstates/allium/allium_3.json"
+  ]
+}

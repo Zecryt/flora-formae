@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.dandelion.enableModel & shortFlowers.dandelion.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/dandelion/dandelion_1.json",
+    "assets/respackopts/blockstates/dandelion/dandelion_2.json",
+    "assets/respackopts/blockstates/dandelion/dandelion_3.json"
+  ]
+}

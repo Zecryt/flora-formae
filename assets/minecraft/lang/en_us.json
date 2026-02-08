@@ -1,0 +1,251 @@
+{
+  "rpo.floraFormae": "Flora Formae",
+
+
+  "rpo.floraFormae.shortFlowers": "Short Flowers",
+
+  "rpo.floraFormae.shortFlowers.allium": "Allium",
+  "rpo.floraFormae.shortFlowers.allium.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.allium.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.azureBluet": "Azure Bluet",
+  "rpo.floraFormae.shortFlowers.azureBluet.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.azureBluet.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.blueOrchid": "Blue Orchid",
+  "rpo.floraFormae.shortFlowers.blueOrchid.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.blueOrchid.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.cactusFlower": "Cactus Flower",
+  "rpo.floraFormae.shortFlowers.cactusFlower.enableModel": "Enable Model",
+
+  "rpo.floraFormae.shortFlowers.cornflower": "Cornflower",
+  "rpo.floraFormae.shortFlowers.cornflower.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.cornflower.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.dandelion": "Dandelion",
+  "rpo.floraFormae.shortFlowers.dandelion.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.dandelion.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.closedEyeblossom": "Closed Eyeblossom",
+  "rpo.floraFormae.shortFlowers.closedEyeblossom.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.closedEyeblossom.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.openEyeblossom": "Open Eyeblossom",
+  "rpo.floraFormae.shortFlowers.openEyeblossom.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.openEyeblossom.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.lilyOfTheValley": "Lily Of The Valley",
+  "rpo.floraFormae.shortFlowers.lilyOfTheValley.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.lilyOfTheValley.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.oxeyeDaisy": "Oxeye Daisy",
+  "rpo.floraFormae.shortFlowers.oxeyeDaisy.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.oxeyeDaisy.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.poppy": "Poppy",
+  "rpo.floraFormae.shortFlowers.poppy.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.poppy.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.torchflower": "Torchflower",
+  "rpo.floraFormae.shortFlowers.torchflower.enableModel": "Enable Model",
+
+  "rpo.floraFormae.shortFlowers.orangeTulip": "Orange Tulip",
+  "rpo.floraFormae.shortFlowers.orangeTulip.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.orangeTulip.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.pinkTulip": "Pink Tulip",
+  "rpo.floraFormae.shortFlowers.pinkTulip.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.pinkTulip.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.redTulip": "Red Tulip",
+  "rpo.floraFormae.shortFlowers.redTulip.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.redTulip.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.whiteTulip": "White Tulip",
+  "rpo.floraFormae.shortFlowers.whiteTulip.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.whiteTulip.variants": "Variants",
+
+  "rpo.floraFormae.shortFlowers.witherRose": "Wither Rose",
+  "rpo.floraFormae.shortFlowers.witherRose.enableModel": "Enable Model",
+  "rpo.floraFormae.shortFlowers.witherRose.variants": "Variants",
+
+
+  "rpo.floraFormae.tallFlowers": "Tall Flowers",
+
+  "rpo.floraFormae.tallFlowers.lilac": "Lilac",
+  "rpo.floraFormae.tallFlowers.lilac.enableModel": "Enable Model",
+
+  "rpo.floraFormae.tallFlowers.peony": "Peony",
+  "rpo.floraFormae.tallFlowers.peony.enableModel": "Enable Model",
+
+  "rpo.floraFormae.tallFlowers.pitcherPlant": "Pitcher Plant",
+  "rpo.floraFormae.tallFlowers.pitcherPlant.enableModel": "Enable Model",
+
+  "rpo.floraFormae.tallFlowers.roseBush": "Rose Bush",
+  "rpo.floraFormae.tallFlowers.roseBush.enableModel": "Enable Model",
+
+  "rpo.floraFormae.tallFlowers.sunflower": "Sunflower",
+  "rpo.floraFormae.tallFlowers.sunflower.enableModel": "Enable Model",
+  "rpo.floraFormae.tallFlowers.sunflower.useLegacyModel": "Use Legacy Model",
+
+
+  "rpo.floraFormae.grass": "Grass",
+
+  "rpo.floraFormae.grass.bush": "Bush",
+  "rpo.floraFormae.grass.bush.enableModel": "Enable Model",
+  "rpo.floraFormae.grass.bush.offset": "Offset",
+  "rpo.floraFormae.grass.bush.colorful": "Colorful",
+
+  "rpo.floraFormae.grass.deadBush": "Dead Bush",
+  "rpo.floraFormae.grass.deadBush.enableModel": "Enable Model",
+  "rpo.floraFormae.grass.deadBush.variated": "Variated",
+
+  "rpo.floraFormae.grass.fireflyBush": "Firefly Bush",
+  "rpo.floraFormae.grass.fireflyBush.enableModel": "Enable Model",
+  "rpo.floraFormae.grass.fireflyBush.offset": "Offset",
+  "rpo.floraFormae.grass.fireflyBush.desynchronized": "Desynchronized",
+
+  "rpo.floraFormae.grass.fern": "Fern",
+  "rpo.floraFormae.grass.fern.enableModel": "Enable Model",
+  "rpo.floraFormae.grass.fern.colorful": "Colorful",
+  "rpo.floraFormae.grass.fern.variated": "Variated",
+
+  "rpo.floraFormae.grass.largeFern": "Large Fern",
+  "rpo.floraFormae.grass.largeFern.enableModel": "Enable Model",
+  "rpo.floraFormae.grass.largeFern.colorful": "Colorful",
+  "rpo.floraFormae.grass.largeFern.variated": "Variated",
+
+  "rpo.floraFormae.grass.shortGrass": "Short Grass",
+  "rpo.floraFormae.grass.shortGrass.enableModel": "Enable Model",
+  "rpo.floraFormae.grass.shortGrass.colorful": "Colorful",
+  "rpo.floraFormae.grass.shortGrass.variated": "Variated",
+
+  "rpo.floraFormae.grass.tallGrass": "Tall Grass",
+  "rpo.floraFormae.grass.tallGrass.enableModel": "Enable Model",
+  "rpo.floraFormae.grass.tallGrass.colorful": "Colorful",
+  "rpo.floraFormae.grass.tallGrass.variated": "Variated",
+
+  "rpo.floraFormae.grass.shortDryGrass": "Short Dry Grass",
+  "rpo.floraFormae.grass.shortDryGrass.enableModel": "Enable Model",
+
+  "rpo.floraFormae.grass.tallDryGrass": "Tall Dry Grass",
+  "rpo.floraFormae.grass.tallDryGrass.enableModel": "Enable Model",
+
+  "rpo.floraFormae.grass.seaGrass": "Sea Grass",
+  "rpo.floraFormae.grass.seaGrass.enableModel": "Enable Model",
+
+  "rpo.floraFormae.grass.tallSeaGrass": "Tall Sea Grass",
+  "rpo.floraFormae.grass.tallSeaGrass.enableModel": "Enable Model",
+
+  "rpo.floraFormae.grass.crimsonRoots": "Crimson Roots",
+  "rpo.floraFormae.grass.crimsonRoots.enableModel": "Enable Model",
+
+  "rpo.floraFormae.grass.warpedRoots": "Warped Roots",
+  "rpo.floraFormae.grass.warpedRoots.enableModel": "Enable Model",
+
+  "rpo.floraFormae.grass.netherSprouts": "Nether Sprouts",
+  "rpo.floraFormae.grass.netherSprouts.enableModel": "Enable Model",
+
+
+  "rpo.floraFormae.crops": "Crops",
+
+  "rpo.floraFormae.crops.beetroots": "Beetroots",
+  "rpo.floraFormae.crops.beetroots.enableModel": "Enable Model",
+
+  "rpo.floraFormae.crops.carrots": "Carrots",
+  "rpo.floraFormae.crops.carrots.enableModel": "Enable Model",
+
+  "rpo.floraFormae.crops.potatoes": "Potatoes",
+  "rpo.floraFormae.crops.potatoes.enableModel": "Enable Model",
+
+  "rpo.floraFormae.crops.wheat": "Wheat",
+  "rpo.floraFormae.crops.wheat.enableModel": "Enable Model",
+
+  "rpo.floraFormae.crops.sweetBerryBush": "Sweet Berry Bush",
+  "rpo.floraFormae.crops.sweetBerryBush.enableModel": "Enable Model",
+
+  "rpo.floraFormae.crops.netherWart": "Nether Wart",
+  "rpo.floraFormae.crops.netherWart.enableModel": "Enable Model",
+
+  "rpo.floraFormae.crops.melonStem": "Melon Stem",
+  "rpo.floraFormae.crops.melonStem.enableModel": "Enable Model",
+
+  "rpo.floraFormae.crops.pumpkinStem": "Pumpkin Stem",
+  "rpo.floraFormae.crops.pumpkinStem.enableModel": "Enable Model",
+
+
+  "rpo.floraFormae.fungi": "Fungi",
+
+  "rpo.floraFormae.fungi.redMushroom": "Red Mushroom",
+  "rpo.floraFormae.fungi.redMushroom.enableModel": "Enable Model",
+  "rpo.floraFormae.fungi.redMushroom.variants": "Variants",
+
+  "rpo.floraFormae.fungi.brownMushroom": "Brown Mushroom",
+  "rpo.floraFormae.fungi.brownMushroom.enableModel": "Enable Model",
+  "rpo.floraFormae.fungi.brownMushroom.variants": "Variants",
+
+  "rpo.floraFormae.fungi.crimsonFungus": "Crimson Fungus",
+  "rpo.floraFormae.fungi.crimsonFungus.enableModel": "Enable Model",
+  "rpo.floraFormae.fungi.crimsonFungus.variants": "Variants",
+
+  "rpo.floraFormae.fungi.warpedFungus": "Warped Fungus",
+  "rpo.floraFormae.fungi.warpedFungus.enableModel": "Enable Model",
+  "rpo.floraFormae.fungi.warpedFungus.variants": "Variants",
+
+
+  "rpo.floraFormae.vines": "Vines",
+
+  "rpo.floraFormae.vines.vines": "Vines",
+  "rpo.floraFormae.vines.vines.enableModel": "Enable Model",
+  "rpo.floraFormae.vines.vines.leaves": "Leaves",
+  "rpo.floraFormae.vines.vines.extended": "Extended",
+
+  "rpo.floraFormae.vines.glowBerryVines": "Glow Berry Vines",
+  "rpo.floraFormae.vines.glowBerryVines.enableModel": "Enable Model",
+
+  "rpo.floraFormae.vines.hangingPaleMoss": "Hanging Pale Moss",
+  "rpo.floraFormae.vines.hangingPaleMoss.enableModel": "Enable Model",
+
+  "rpo.floraFormae.vines.hangingRoots": "Hanging Roots",
+  "rpo.floraFormae.vines.hangingRoots.enableModel": "Enable Model",
+
+  "rpo.floraFormae.vines.twistingVines": "Twisting Vines",
+  "rpo.floraFormae.vines.twistingVines.enableModel": "Enable Model",
+
+  "rpo.floraFormae.vines.weepingVines": "Weeping Vines",
+  "rpo.floraFormae.vines.weepingVines.enableModel": "Enable Model",
+
+
+  "rpo.floraFormae.miscellaneous": "Miscellaneous",
+
+  "rpo.floraFormae.miscellaneous.bamboo": "Bamboo",
+  "rpo.floraFormae.miscellaneous.bamboo.enableModel": "Enable Model",
+  "rpo.floraFormae.miscellaneous.bamboo.enableSapling": "Enable Sapling",
+  "rpo.floraFormae.miscellaneous.bamboo.pottedRotations": "Potted Rotations",
+  "rpo.floraFormae.miscellaneous.bamboo.pottedVariants": "Potted Variants",
+
+  "rpo.floraFormae.miscellaneous.chorusPlant": "Chorus Plant",
+  "rpo.floraFormae.miscellaneous.chorusPlant.enableModel": "Enable Model",
+  "rpo.floraFormae.miscellaneous.chorusPlant.flowerPetals": "Flower Petals",
+  "rpo.floraFormae.miscellaneous.chorusPlant.leaves": "Leaves",
+
+  "rpo.floraFormae.miscellaneous.coral": "Coral",
+  "rpo.floraFormae.miscellaneous.coral.enableModel": "Enable Model",
+
+  "rpo.floraFormae.miscellaneous.kelp": "Kelp",
+  "rpo.floraFormae.miscellaneous.kelp.enableModel": "Enable Model",
+
+  "rpo.floraFormae.miscellaneous.lilyPad": "Lily Pad",
+  "rpo.floraFormae.miscellaneous.lilyPad.enableModel": "Enable Model",
+  "rpo.floraFormae.miscellaneous.lilyPad.flowers": "Enable Model",
+  "rpo.floraFormae.miscellaneous.lilyPad.roots": "Roots",
+  "rpo.floraFormae.miscellaneous.lilyPad.rotatedVariant": "Rotated Variant",
+
+  "rpo.floraFormae.miscellaneous.saplings": "Saplings",
+  "rpo.floraFormae.miscellaneous.saplings.enableModel": "Enable Model",
+  "rpo.floraFormae.miscellaneous.saplings.visualGrowth": "Visual Growth",
+
+  "rpo.floraFormae.miscellaneous.sugarCane": "Sugar Cane",
+  "rpo.floraFormae.miscellaneous.sugarCane.enableModel": "Enable Model"
+}

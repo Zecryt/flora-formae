@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.oxeyeDaisy.enableModel & shortFlowers.oxeyeDaisy.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/oxeye_daisy/oxeye_daisy_1.json",
+    "assets/respackopts/blockstates/oxeye_daisy/oxeye_daisy_2.json",
+    "assets/respackopts/blockstates/oxeye_daisy/oxeye_daisy_3.json"
+  ]
+}

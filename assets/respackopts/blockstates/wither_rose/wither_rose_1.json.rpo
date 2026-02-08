@@ -1,0 +1,3 @@
+{
+  condition: "!shortFlowers.witherRose.enableModel | shortFlowers.witherRose.variants + 0 == 1"
+}

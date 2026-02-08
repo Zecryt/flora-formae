@@ -1,0 +1,3 @@
+{
+  condition: "fungi.brownMushroom.enableModel & fungi.brownMushroom.variants + 0 == 2"
+}

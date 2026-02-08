@@ -1,0 +1,3 @@
+{
+  condition: "!shortFlowers.lilyOfTheValley.enableModel | shortFlowers.lilyOfTheValley.variants + 0 == 1"
+}

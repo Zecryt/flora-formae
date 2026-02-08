@@ -1,0 +1,3 @@
+{
+  condition: "!shortFlowers.cornflower.enableModel | shortFlowers.cornflower.variants + 0 == 1"
+}

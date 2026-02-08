@@ -1,0 +1,3 @@
+{
+  condition: "shortFlowers.closedEyeblossom.variants + 0 == 3"
+}

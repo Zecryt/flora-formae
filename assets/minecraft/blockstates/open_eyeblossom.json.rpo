@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.openEyeblossom.enableModel & shortFlowers.openEyeblossom.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/open_eyeblossom/open_eyeblossom_1.json",
+    "assets/respackopts/blockstates/open_eyeblossom/open_eyeblossom_2.json",
+    "assets/respackopts/blockstates/open_eyeblossom/open_eyeblossom_3.json"
+  ]
+}

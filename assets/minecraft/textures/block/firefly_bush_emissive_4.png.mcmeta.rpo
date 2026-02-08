@@ -1,0 +1,4 @@
+{
+  condition: "grass.fireflyBush.desynchronized",
+  fallback: "assets/minecraft/textures/block/firefly_bush_emissive_0.png.mcmeta"
+}

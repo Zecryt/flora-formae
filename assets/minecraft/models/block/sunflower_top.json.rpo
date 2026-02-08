@@ -1,0 +1,4 @@
+{
+  condition: "tallFlowers.sunflower.enableModel & !tallFlowers.sunflower.useLegacyModel",
+  fallback: "assets/respackopts/models/sunflower/sunflower_top.json"
+}

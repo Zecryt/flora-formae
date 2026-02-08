@@ -1,0 +1,4 @@
+{
+  condition: "grass.shortGrass.variated",
+  fallback: "assets/respackopts/textures/short_grass.png"
+}

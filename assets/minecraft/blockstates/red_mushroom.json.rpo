@@ -1,0 +1,7 @@
+{
+  condition: "fungi.redMushroom.enableModel & fungi.redMushroom.variants + 0 == 3",
+  fallbacks: [
+    "assets/respackopts/blockstates/red_mushroom/red_mushroom_2.json",
+    "assets/respackopts/blockstates/red_mushroom/red_mushroom_1.json"
+  ]
+}

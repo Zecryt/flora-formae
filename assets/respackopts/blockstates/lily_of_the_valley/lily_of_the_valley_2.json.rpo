@@ -1,0 +1,3 @@
+{
+  condition: "shortFlowers.lilyOfTheValley.variants + 0 == 2"
+}

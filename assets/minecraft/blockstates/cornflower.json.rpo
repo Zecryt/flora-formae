@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.cornflower.enableModel & shortFlowers.cornflower.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/cornflower/cornflower_1.json",
+    "assets/respackopts/blockstates/cornflower/cornflower_2.json",
+    "assets/respackopts/blockstates/cornflower/cornflower_3.json"
+  ]
+}

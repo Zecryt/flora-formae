@@ -1,0 +1,4 @@
+{
+  condition: "grass.shortGrass.colorful",
+  fallback: "assets/respackopts/textures/short_grass.png"
+}

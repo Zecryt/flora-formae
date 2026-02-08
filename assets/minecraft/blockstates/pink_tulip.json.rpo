@@ -1,0 +1,8 @@
+{
+  condition: "shortFlowers.pinkTulip.enableModel & shortFlowers.pinkTulip.variants + 0 == 4",
+  fallbacks: [
+    "assets/respackopts/blockstates/pink_tulip/pink_tulip_1.json",
+    "assets/respackopts/blockstates/pink_tulip/pink_tulip_2.json",
+    "assets/respackopts/blockstates/pink_tulip/pink_tulip_3.json"
+  ]
+}

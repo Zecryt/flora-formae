@@ -1,0 +1,4 @@
+{
+  condition: "vines.vines.extended",
+  fallback: "assets/respackopts/textures/blank.png"
+}

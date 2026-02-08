@@ -1,0 +1,4 @@
+{
+  condition: "miscellaneous.bamboo.pottedRotations",
+  fallback: "assets/respackopts/blockstates/bamboo/potted_bamboo.json"
+}

@@ -1,0 +1,4 @@
+{
+  condition: "miscellaneous.lilyPad.roots",
+  fallback: "assets/respackopts/textures/blank.png"
+}

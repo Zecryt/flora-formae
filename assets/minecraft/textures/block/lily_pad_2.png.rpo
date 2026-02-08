@@ -1,0 +1,4 @@
+{
+  condition: "miscellaneous.lilyPad.rotatedVariant",
+  fallback: "assets/respackopts/textures/lily_pad.png"
+}

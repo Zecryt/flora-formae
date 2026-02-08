@@ -1,0 +1,4 @@
+{
+  condition: "grass.largeFern.variated",
+  fallback: "assets/minecraft/textures/block/large_fern_bottom_tip.png"
+}

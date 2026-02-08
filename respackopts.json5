@@ -1,0 +1,404 @@
+{
+  id: "floraFormae",
+  version: 13,
+  capabilities: [
+    "FileFilter",
+    "DirFilter"
+  ],
+  conf: {
+    shortFlowers: {
+      allium: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      azureBluet: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      blueOrchid: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      cactusFlower: {
+        enableModel: true
+      },
+
+      cornflower: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      dandelion: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      closedEyeblossom: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      openEyeblossom: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      lilyOfTheValley: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      oxeyeDaisy: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      poppy: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      torchflower: {
+        enableModel: true
+      },
+
+      orangeTulip: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      pinkTulip: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      redTulip: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      whiteTulip: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      },
+
+      witherRose: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 4,
+          min: 1,
+          max: 4
+        }
+      }
+    },
+
+    tallFlowers: {
+      lilac: {
+        enableModel: true
+      },
+
+      peony: {
+        enableModel: true
+      },
+
+      pitcherPlant: {
+        enableModel: true
+      },
+
+      roseBush: {
+        enableModel: true
+      },
+
+      sunflower: {
+        enableModel: true,
+        useLegacyModel: false
+      }
+    },
+
+    grass: {
+      bush: {
+        enableModel: true,
+        offset: true,
+        colorful: true
+      },
+
+      deadBush: {
+        enableModel: true,
+        variated: true
+      },
+
+      fireflyBush: {
+        enableModel: true,
+        offset: true,
+        desynchronized: true
+      },
+
+      fern: {
+        enableModel: true,
+        colorful: true,
+        variated: true
+      },
+
+      largeFern: {
+        enableModel: true,
+        colorful: true,
+        variated: true
+      },
+
+      shortGrass: {
+        enableModel: true,
+        colorful: true,
+        variated: true
+      },
+
+      tallGrass: {
+        enableModel: true,
+        colorful: true,
+        variated: true
+      },
+
+      shortDryGrass: {
+        enableModel: true
+      },
+
+      tallDryGrass: {
+        enableModel: true
+      },
+
+      seaGrass: {
+        enableModel: true
+      },
+
+      tallSeaGrass: {
+        enableModel: true
+      },
+
+      crimsonRoots: {
+        enableModel: true
+      },
+
+      warpedRoots: {
+        enableModel: true
+      },
+
+      netherSprouts: {
+        enableModel: true
+      }
+    },
+
+    crops: {
+      beetroots: {
+        enableModel: true
+      },
+
+      carrots: {
+        enableModel: true
+      },
+
+      potatoes: {
+        enableModel: true
+      },
+
+      wheat: {
+        enableModel: true
+      },
+
+      sweetBerryBush: {
+        enableModel: true
+      },
+
+      netherWart: {
+        enableModel: true
+      },
+
+      melonStem: {
+        enableModel: true
+      },
+
+      pumpkinStem: {
+        enableModel: true
+      }
+    },
+
+    fungi: {
+      redMushroom: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 3,
+          min: 1,
+          max: 3
+        }
+      },
+
+      brownMushroom: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 3,
+          min: 1,
+          max: 3
+        }
+      },
+
+      crimsonFungus: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 3,
+          min: 1,
+          max: 3
+        }
+      },
+
+      warpedFungus: {
+        enableModel: true,
+        variants: {
+          type: "integer",
+          default: 3,
+          min: 1,
+          max: 3
+        }
+      }
+    },
+
+    vines: {
+      vines: {
+        enableModel: true,
+        leaves: true,
+        extended: true
+      },
+
+      glowBerryVines: {
+        enableModel: true
+      },
+
+      paleHangingMoss: {
+        enableModel: true
+      },
+
+      hangingRoots: {
+        enableModel: true
+      },
+
+      twistingVines: {
+        enableModel: true
+      },
+
+      weepingVines: {
+        enableModel: true
+      }
+    },
+
+    miscellaneous: {
+      bamboo: {
+        enableSapling: true,
+        pottedRotations: true,
+        pottedVariants: true
+      },
+
+      chorusPlant: {
+        flowerPetals: true,
+        leaves: true
+      },
+
+      coral: {
+        enableModel: true
+      },
+
+      kelp: {
+        enableModel: true
+      },
+
+      lilyPad: {
+        flowers: true,
+        roots: true,
+        rotatedVariant: true
+      },
+
+      saplings: {
+        enableModel: true,
+        visualGrowth: true
+      },
+
+      sugarCane: {
+        enableModel: true
+      }
+
+    }
+  }
+}

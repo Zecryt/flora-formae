@@ -1,0 +1,4 @@
+{
+  condition: "vines.vines.enableModel & vines.vines.leaves",
+  fallback: "assets/respackopts/models/vines/vine_no_leaves.json"
+}
